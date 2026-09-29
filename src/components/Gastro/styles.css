@@ -1,0 +1,16 @@
+.chef-image {
+    background-image: url('./assets/gastro-line.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 2px;
+}
+
+.gastro-icon {
+    height: 52px;
+}
+
+.last-para  > :last-child { margin-bottom: 0 !important; }
+
+.chef-flag {
+    width: 40px;
+}

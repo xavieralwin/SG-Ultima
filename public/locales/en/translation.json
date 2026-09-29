@@ -1,0 +1,962 @@
+{
+   "navigation": {
+      "home": "Home",
+      "contactUs": "Contact Us",
+      "privileges": "Privileges",
+      "rewards": "MEMBER PRIVILEGES",
+      "termsAndCondition": "Terms & Conditions",
+      "importantInformation": "Important Information",
+      "citiUltima": "Citi Ultima Agreement",
+      "personalData": "Personal Data (Privacy) Ordinance Statement",
+      "keyFacts": "Key Facts Statement and Fees Schedule",
+      "journeys": "Travel",
+      "tastemakers": "Dining & Lifestyle",
+      "balance": "Health & Wellness",
+      "moments": "Experiences",
+      "delights": "Bespoke Offers",
+      "master": "Master",
+      "privacy": "Privacy",
+      "backToTop": "Back To Top",
+      "externalLinkText": "You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?"
+   },
+   "home":{
+      "header":"ULTIMA",
+      "subCopy":"Gain privileged access to a world desired by many,<br/>but experienced only by a chosen few.",
+      "brandVideo": "https://cdnapisec.kaltura.com/p/2645261/sp/264526100/embedIframeJs/uiconf_id/52176612/partner_id/2645261?iframeembed=true&playerId=kaltura_player_1689961352&entry_id=1_tb5elok1&flashvars[loop]=true",
+      "brandVideoVisa": "https://cdnapisec.kaltura.com/p/2645261/sp/264526100/embedIframeJs/uiconf_id/52176612/partner_id/2645261?iframeembed=true&playerId=kaltura_player_1689961352&entry_id=1_d640ub4s&flashvars[loop]=true",
+      "pillarTitle": "MEMBER PRIVILEGES",
+      "pillarCopyMastercard": "The Citi ULTIMA World Elite Mastercard certainly comes with many privileges, but we never forget it is also a privilege for us to have you as a member. To show you our appreciation, Citi ULTIMA Card rewards you with ThankYou<sup>SM</sup> Points at every turn.",
+      "pillarCopyVisa": "Citi ULTIMA Visa membership certainly comes with many privileges, but we never forget it is also a privilege for us to have you as a member. To show you our appreciation, Citi ULTIMA Card rewards you with ThankYou<sup>SM</sup> Points at every turn.",
+      "pillarCopyMastercard2": "",
+      "pillarCopyVisa2": "",
+      "carouselTitle": "PRIVILEGES",
+      "carouselCopy": "Citi ULTIMA introduces you to a world of privileges to help turn your requests into realities, however small or extraordinary and wherever in the world you may be. Choose your exclusive indulgence from the categories below and discover unforgettable experiences.",
+      "card1Type": "visa",
+      "card1Title":"Welcome & Renewal Gift",
+      "card1Body":"Receive a welcome<br/> gift of 375,000 ThankYou<sup>SM</sup> Points (150,000 miles) when you come <br/>onboard as a Citi ULTIMA Cardmember and make a full payment of the annual <br/>membership fee.",
+      "card1Link": "#/rewards?ICID=SGULUPAENRWDSCALM01",
+      "card2Type": "mastercard",
+      "card2Title":"Welcome & Renewal Gift",
+      "card2Body":"Receive a welcome<br/> gift of 375,000 ThankYou<sup>SM</sup> Points (150,000 miles) when you come <br/>onboard as a Citi ULTIMA Cardmember and make a full payment of the annual <br/>membership fee.",
+      "card2Link": "#/rewards?ICID=SGULUPAENRWDSCALM01",
+ 
+      "card4Title":"Accelerated Points <span class='xl-hide'><br><br></span>",
+      "card4Body":"Earn 5 Citi ThankYou<sup>SM</sup> Points (2 Miles) for every eligible S$1 foreign currency spend and 4 Citi ThankYou<sup>SM</sup> Points (1.6 Miles) for every eligible S$1 spent locally with your Citi ULTIMA Card. Your points never expire.",      
+      "card4Link": "#/rewards?ICID=SGULUPAENRWDSCALM03",
+      "conciergeTitle":"Exceptional service for the ultimate life.",
+      "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you."
+   },
+   "luxuries":{
+      "header":"ULTIMATE <br/> LUXURIES",
+      "preTitle": "PRIVILEGES",
+      "subCopy":"A card dedicated to the ultimate life.",
+      "title":"EXPLORE PRIVILEGES",
+      "copy":"Citi ULTIMA introduces you to a world of privileges to help turn your requests into realities, however small or extraordinary and wherever in the world you may be. Choose your exclusive indulgence from the categories below and discover unforgettable experiences."
+   },
+   "journeys":{
+      "header":"ULTIMATE <br/> HORIZONS",
+      "preTitle":"TRAVEL",
+      "subCopy":"Encounter paradise with every adventure.",
+      "offer1Type":"",
+      "offer1Title":"COMPLIMENTARY HOTEL NIGHT PROGRAM",
+      "offer1Button":"COMPLIMENTARY HOTEL NIGHT PROGRAM",
+      "offer1Copy":"Enjoy one complimentary nightâ€™s stay every time you book a minimum of two consecutive nights.",
+      "offer1IncludedTitle":"WHAT'S INCLUDED",
+      "offer1IncludedSubTitle":"",
+      "offer1IncludedCopy":"Enjoy one complimentary nightâ€™s stay every time you book a minimum of two consecutive nights at any of our 900 luxurious participating properties worldwide.<br/> <br/> To make your stay more enjoyable, youâ€™ll receive these special benefits:<ul><li>Automatic room upgrade</li><li>Complimentary in-room Wi-Fi</li><li>Late check-out upon request</li></ul></br></br>The above is subject to Hotel's availability and Terms and Conditions.",
+      "offer1DetailsTitle":"MORE DETAILS",
+      "offer1DetailsSubTitle":"",
+      "offer1DetailsCopy":"",
+      "offer1AccessTitle":"HOW TO ACCESS",
+      "offer1AccessSubTitle":"",
+      "offer1AccessCopy":"To enjoy the above benefits, please contact your Citi ULTIMA Lifestyle Relationship Manager <br><br>Booking, amendments and cancellations must be done through a Citi ULTIMA Lifestyle Relationship Manager, or where available, the Citi ULTIMA Concierge. ",
+      "offer2Type":"",
+      "offer2Title":"<p class='w-mob-1'>AIRFARE PRIVILEGE PROGRAM - COMPANION TRAVEL</p>",
+      "offer2Button":"COMPANION AIRFARE",
+      "offer2Copy":"<p class='w-mob-1'>Purchase a full fare First or Business Class ticket on any of eight participating airlines and your companion's airfare will be on us.</p>",
+      "offer2IncludedTitle":"WHAT'S INCLUDED",
+      "offer2IncludedSubTitle":"",
+      "offer2IncludedTable":"sg-companionairfare",
+      "offer2IncludedCopy":"If you purchase a full fare First or Business Class ticket on any of eight participating airlines and your companion's airfare will be on us. <br/>  <br/> Companion Airfare Benefit Illustration:",
+      "offer2IncludedTable2":"sg-individualairfare",
+      "offer2IncludedCopy2":"Plus, enjoy up to 15% savings on non-promotional First or Business Class airfares on participating airlines. Individual Discounted Airfare Benefit Illustration:",
+      "offer2DetailsTitle":"MORE DETAILS",
+      "offer2DetailsSubTitle":"",
+      "offer2DetailsCopy":"The participating airlines are: <ul><li>American Airlines</li><li>British Airways</li><li>Qatar Airlines</li><li>Etihad Airlines</li><li>Japan Airlines</li><li>Lufthansa</li><li>Qantas</li><li>Delta</li></ul><br/><br/><a href='#/terms-and-conditions/horizons/1?icid=SGULUY8ENULTICAVC06' target='_blank'>Click here</a> for Terms and Conditions.",
+      "offer2AccessTitle":"HOW TO ACCESS",
+      "offer2AccessSubTitle":"",
+      "offer2AccessCopy":"To find out more about the participating airlines or to make a booking, please contact your Citi ULTIMA Lifestyle Relationship Manager.",      
+      
+
+
+      "offer3Type":"visa",
+      "offer3Title":"AIRPORT LOUNGE PASS",
+      "offer3Button":"Priority Pass Lounge",
+      "offer3Copy":"Enjoy complimentary access to Priority Pass Lounges worldwide.",
+      "offer3IncludedTitle":"WHAT'S INCLUDED",
+      "offer3IncludedSubTitle":"",
+      "offer3IncludedCopy":"Access to over 1700 airport lounges worldwide for Citi ULTIMA main cardmember and up to 2 supplementary cards through the Priority Pass Digital membership.<br/><br/>This access includes:<ul><li>800+ offers across retail, dining, spa and shopping merchants</li><li>Instant access to privileges through dedicated app</li></ul>",
+      "offer3DetailsTitle":"MORE DETAILS",
+      "offer3DetailsSubTitle":"",
+      "offer3DetailsCopy":"<ul><li>Each accompanying guest will be charged at US$35 per person per visit (or at the prevailing rate), which will be charged by Priority Pass to your Citi ULTIMA Card.</li><li><a href='#/terms-and-conditions/horizons/6?icid=SGULUY8ENULTICAVC07' target='_blank'>Click here</a>  for Terms and Conditions.</li></ul><br/><br/>",
+      "offer3AccessTitle":"HOW TO ACCESS",
+      "offer3AccessSubTitle":"",
+      "offer3AccessCopy":"<ul><li>Cardmembers will receive a unique Priority Pass invitation code via Citi Mobile<sup>Â®</sup> App 2 weeks after the approval of Cardmember's Citi ULTIMA Visa Card.</li><li>Please <a href='https://www.citibank.com.sg/prioritypass/ultima/?icid=SGULUY8ENULTICAVC06' target='_blank'>click here</a> for registration steps.</li><li>Cardmembers are to use the unique Priority Pass invitation code to register for a Digital Membership Card at <a href='https://www.prioritypass.com/UltimaSG' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>www.prioritypass.com/UltimaSG</a> and use the Priority Pass App to redeem airport lounge entitlements.</li></ul>",
+      
+
+      "offer4Type":"mastercard",
+      "offer4Title":"AIRPORT LOUNGE PASS",
+      "offer4Button":"Priority Pass Lounge",
+      "offer4Copy":"Enjoy complimentary access to Priority Pass Lounges worldwide.",
+      "offer4IncludedTitle":"WHAT'S INCLUDED",
+      "offer4IncludedSubTitle":"",
+      "offer4IncludedCopy":"Access to over 1700 airport lounges worldwide for Citi ULTIMA main cardmember and up to 2 supplementary cards through the Priority Pass Digital membership.<br/><br/>This access includes:<ul><li>800+ offers across retail, dining, spa and shopping merchants</li><li>Instant access to privileges through dedicated app</li></ul>",
+      "offer4DetailsTitle":"MORE DETAILS",
+      "offer4DetailsSubTitle":"",
+      "offer4DetailsCopy":"<ul><li>Each accompanying guest will be charged at US$35 per person per visit (or at the prevailing rate), which will be charged by Priority Pass to your Citi ULTIMA Card.</li><li><a href='#/terms-and-conditions/horizons/6?icid=SGULUY8ENULTICAVC07' target='_blank'>Click here</a>  for Terms and Conditions.</li></ul><br/><br/>",
+      "offer4AccessTitle":"HOW TO ACCESS",
+      "offer4AccessSubTitle":"",
+      "offer4AccessCopy":"<ul><li>Cardmembers will receive a unique Priority Pass invitation code via Citi Mobile<sup>Â®</sup> App 2 weeks after the approval of Cardmember's Citi ULTIMA World Elite Mastercard.</li><li>Please <a href='https://www.citibank.com.sg/prioritypass/ultima/?icid=SGULUY8ENULTICAVC06' target='_blank'>click here</a> for registration steps.</li><li>Cardmembers are to use the unique Priority Pass invitation code to register for a Digital Membership Card at <a href='https://www.prioritypass.com/ultimaMCsg' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>www.prioritypass.com/ultimaMCsg</a> and use the Priority Pass App to redeem airport lounge entitlements.</li></ul>",
+      
+      "offer5Type":"",
+      "offer5Title":"AIRPORT TRAVEL ASSIST",
+      "offer5Button":"AIRPORT TRAVEL ASSIST",
+      "offer5Copy":"Travel with ease through your flight arrival and departure with complimentary luxury airport transfer and airport assistance services at participating airports in Asia Pacific.",
+      "offer5IncludedTitle":"WHAT'S INCLUDED",
+      "offer5IncludedSubTitle":"",
+      "offer5IncludedTable":"sg-airportassist",
+      "offer5IncludedCopy":"Purchase a First or Business Class ticket to enjoy the following benefits:",
+      "offer5DetailsTitle":"MORE DETAILS",
+      "offer5DetailsSubTitle":"",
+      "offer5DetailsCopy":"Please <a href='#/terms-and-conditions/horizons/2?icid=SGULUY8ENULTICAVC44' target='_blank'>click here</a> for the list of participating airports and full terms and conditions.",
+      "offer5AccessTitle":"HOW TO ACCESS",
+      "offer5AccessSubTitle":"",
+      "offer5AccessCopy":"To book this complimentary service, please call your Citi ULTIMA Lifestyle Relationship Manager.",
+      
+      "offer6Type":"mastercard",
+      "offer6Title":"AIRFARE PRIVILEGE PROGRAM - COMPLIMENTARY TRAVEL INSURANCE",
+      "offer6Button":"Complimentary Travel Insurance",
+      "offer6Copy":"Enjoy comprehensive coverage when you purchase a round-trip air ticket with your Citi ULTIMA Card.",
+      "offer6IncludedTitle":"WHAT'S INCLUDED",
+      "offer6IncludedSubTitle":"",
+      "offer6IncludedCopy":"Get coverage of up to US$500,000 for yourself, up to US$250,000 for your accompanying spouse and up to US$50,000 for 3 accompanying children or domestic helpers under the World Elite Mastercard Travel Insurance Policy. T&Cs Apply.<br /><br />The World Elite Mastercard Card Travel Insurance provided by <a href='https://specials.priceless.com/mastercard/images/aac46a17-04d7-42d7-b097-7de8cb439e7d.pdf' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>AIG Asia Pacific Insurance Pte Ltd.</a> will remain. ",
+      "offer6DetailsTitle":"MORE DETAILS",
+      "offer6DetailsSubTitle":"",
+      "offer6DetailsCopy":"Click <a href='https://specials.priceless.com/en-sg/benefitsDetail/Travel_Insurance?Oid=201901310006&issuerId=201810190021&productId=202310170001' target='_blank' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' >here</a> to see the full set of Terms and Conditions and claims process of the travel insurance offered to World Elite Mastercard Cardmembers. <br /><br />Click <a href='https://specials.priceless.com/mastercard/images/aac46a17-04d7-42d7-b097-7de8cb439e7d.pdf' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>here</a> to see the World Elite Mastercard Travel Insurance Policy insured by AIG Asia Pacific Insurance Pte Ltd.",
+      "offer6AccessTitle":"HOW TO CLAIM",
+      "offer6AccessSubTitle":"",
+      "offer6AccessCopy": "<p>To file a claim, click <a href='https://www.mycardbenefits.com/' target='_blank' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' >here</a>. <br /><br />Contact Us: (65) 6419 1667 <br />Monday to Friday (excluding Public Holidays), 8:30am to 5:30pm<br /></p>",
+      
+      "offer7Type":"visa",
+      "offer7Title":"AIRFARE PRIVILEGE PROGRAM - COMPLIMENTARY TRAVEL INSURANCE",
+      "offer7Button":"Complimentary Travel Insurance",
+      "offer7Copy":"Enjoy maximum coverage when you purchase a round-trip air ticket with your Citi ULTIMA Card.",
+      "offer7IncludedTitle":"WHAT'S INCLUDED",
+      "offer7IncludedSubTitle":"",
+      "offer7IncludedCopy":"Get coverage of up to $1,000,000 for yourself and up to $50,000 for your accompanying spouse. With effect from 1 March 2025, there will be a revision made to the Citi ULTIMA Visa Card complimentary travel insurance coverage (â€œTravel Insuranceâ€) underwritten by HL Assurance Pte Ltd (â€œHLASâ€) for the ULTIMA Visa Card. The Travel Insurance will be updated to end on 31 March 2026. For more details of this change and how it affects you, visit the Citibank Singapore website and click on Notices at the bottom of the page.",
+      "offer7DetailsTitle":"MORE DETAILS",
+      "offer7DetailsSubTitle":"",
+      "offer7DetailsCopy":"Please <a href='https://www.citibank.com.sg/pdf/1222/credit-card/complimentary-travel-insurance-trips-commencing.pdf' target='_blank'>click here</a> for full set of policy terms and exclusions underwritten by HLA Assurance Pte Ltd.",
+      "offer7AccessTitle":"HOW TO CLAIM",
+      "offer7AccessSubTitle":"",
+      "offer7AccessCopy": "<u style='font-weight:600; color:#fff;'>Contact Us</u><br/><br/><table><tr><td><strong>HL Customer Care</strong></td><td rowspan='2'>Mondays to Fridays, 9am to 6 pm (Exclude Public Holidays)</td><td>(65) 6702 0202</td><td>Fax (65) 6922 6002</td><td>service@hlas.com.sg</td></tr><tr><td><strong>HL Assurance Claims</strong></td><td>(65) 6922 6003</td><td>Fax (65) 6224 1923</td><td>claims@hlas.com.sg</td></tr></table>",
+      
+      
+      "offer8Type":"",
+      "offer8Title":"APEC BUSINESS TRAVEL CARD",
+      "offer8Button":"Apec Business Travel Card",
+      "offer8Copy":"Enjoy complimentary APEC Business Travel Card (ABTC)",
+      "offer8IncludedTitle":"WHAT'S INCLUDED",
+      "offer8IncludedSubTitle":"",
+      "offer8IncludedCopy":"ULTIMA Cardholders who have successfully applied and paid for the APEC Business Travel Card and who have made a qualifying spend of S$200,000 in 365 days preceding the cardholder's application for reimbursement under this promotion, will be reimbursed the APEC Business Travel Card application fee.",
+      "offer8DetailsTitle":"MORE DETAILS",
+      "offer8DetailsSubTitle":"",
+      "offer8DetailsCopy":"",
+      "offer8AccessTitle":"HOW TO REDEEM",
+      "offer8AccessSubTitle":"",
+      "offer8AccessCopy":"<ul><li> An Eligible Cardholder is required to submit the relevant documents to a ULTIMA Lifestyle Relationship Manager.</li><li><a href='#/terms-and-conditions/horizons/3' target='_blank'>Click here</a> for full terms and conditions and redemption details."
+   
+
+   },
+   "tastemakers":{
+      "header":"ULTIMATE <br/>INDULGENCE",
+      "preTitle":"DINING & LIFESTYLE",
+      "subCopy":"Relish top-notch gourmet dining and unparalleled experiences.",
+      "gastroShow": true,
+      "conciergeTitle":"Exceptional service for the ultimate life.",
+      "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.",
+      
+      
+       "offer1Type":"",
+       "offer1Title":"GARIBALDI",
+       "offer1Button":"GARIBALDI",
+       "offer1Copy":"Enjoy 10% off Total Bill",
+       "offer1IncludedTitle":"WHAT'S INCLUDED",
+       "offer1IncludedSubTitle":"",
+       "offer1IncludedCopy":"Additional welcome glass of Prosecco per person for selected Citi Cards",
+       "offer1DetailsTitle":"MORE DETAILS",
+       "offer1DetailsSubTitle":"",
+       "offer1DetailsCopy":"<ul><li>10% Off Total Bill</li><li>Additional welcome glass of Prosecco per person for selected Citi Cards^</li></ul><br />^Applicable for Citi ULTIMA, Citi Prestige, Citigold Debit Mastercard and Citigold Private Client World Elite Debit Mastercard.<br /><br />Kindly note that the above Promotions are valid for use together, but not valid with other discounts, promotions (Set Lunch, Weekend Free-flow Brunch, Special Group Set Menus), vouchers or membership privileges.<br />Offer Valid till: December 31, 2026<br /><br />For other Citi Cardmember Privileges click <a href='https://www.citiworldprivileges.com/' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>here</a>",
+       "offer1AccessTitle":"HOW TO ACCESS",
+       "offer1AccessSubTitle":"Garibaldi",
+       "offer1AccessCopy":"36 Purvis St, #01-02<br />Singapore - 188613<br />Phone: +65 9438 6314",
+       
+       "offer2Type":"",
+       "offer2Title":"GRIGLIA OPEN FIRE ITALIAN KITCHEN",
+       "offer2Button":"GRIGLIA OPEN FIRE ITALIAN KITCHEN",
+       "offer2Copy":"Weekday Set Lunch from S$25++ & 15% off a la carte food bill",
+       "offer2IncludedTitle":"WHAT'S INCLUDED",
+       "offer2IncludedSubTitle":"",
+       "offer2IncludedCopy":"BYOB, capped at 1 bottle for reservations of up to 4 persons or 2 bottles for reservations of 5 - 10 persons.",
+       "offer2DetailsTitle":"MORE DETAILS",
+       "offer2DetailsSubTitle":"",
+       "offer2DetailsCopy":"Weekday 3-course set lunch at Citi Exclusive Price<ul><li>Craig Road: Weekday 3-course set lunch from S$35++ (U.P. S$38++)</li><li>East Coast Road: Weekday 3-course set lunch from S$25++ (U.P. S$28++)</li></ul><br /><br />15% off a la carte food bill (lunch & dinner)<br /><br />For selected Citi Cards^: BYOB, capped at 1 bottle for reservations of up to 4 persons or 2 bottles for reservations of 5 - 10 persons.<br /><br />Closed on Mondays<br />^Applicable for Citi ULTIMA, Citi Prestige, Citigold Debit Mastercard and Citigold Private Client World Elite Debit Mastercard.<br />Offer Valid till: December 31, 2026<br /><br />For other Citi Cardmember Privileges click <a href='https://www.citiworldprivileges.com/' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>here</a>",
+       "offer2AccessTitle":"HOW TO ACCESS",
+       "offer2AccessSubTitle":"",
+       "offer2AccessCopy":"Griglia Open Fire Italian Kitchen<br />Craig Road, 37 Craig Rd, #01-01,<br />Singapore - 089675<br />+65 8949 7011<br /> <br />Griglia Open Fire Italian Kitchen<br />East Coast Road, 139 E Coast Rd, #01-01<br />Singapore - 428829<br />+65 8949 1101",
+       
+       "offer3Type":"",
+       "offer3Title":"Heavenly Spa by Westinâ„¢, The Westin Singapore",
+       "offer3Button":"Heavenly Spa by Westinâ„¢, The Westin Singapore",
+       "offer3Copy":"50% off Heavenly Spa Treatments (For 90mins treatment and above)",
+       "offer3IncludedTitle":"WHAT'S INCLUDED",
+       "offer3IncludedSubTitle":"",
+       "offer3IncludedCopy":"All Citi Cards: 50% off Heavenly Spa Treatments (For 90mins treatment and above)<br/><br><b>Exclusive Privileges for selected Citi Cards*:</b><br/><ol><li>Spa treatment add-ons: 30-min Express Facial at S$60++ (Original Price: S$120++)</li><li>30-min Body Wrap/Scrub at S$60++ (Original Price:S$175++)</li></ol><br/><sup>*</sup>Applicable for Citi ULTIMA, Citi Prestige, Citigold Debit Mastercard and Citigold Private Client World Elite Debit Mastercard.",
+       "offer3DetailsTitle":"MORE DETAILS",
+       "offer3DetailsSubTitle":"",
+       "offer3DetailsCopy":"Terms and conditions:<br/>- Valid from 1 April 2026 to 31 December 2026, both dates inclusive.<br/>- Payment must be charged using Citi Credit / Citibank Debit Card to enjoy the promo.<br/>- 50% off Heavenly Spa Treatments is applicable for 90mins treatment and above.<br/>- 24-hours advance booking is required. Subject to availability.</br>- For reservations, please email to Heavenlyspa.Singapore@westin.com<br/>- For exclusive privileges for selected Citi Cards, please quote the Citi selected cards to enjoy the promo.<br/>- Inclusive of the use of spa facilities such as whirlpool and steam baths.<br/>- Not valid in conjunction with other special offers, promotions, or packages.<br/>- Promotion is subject to availability on a first-come, first-served basis.<br/>- No extension is allowed. <br/>- Citibank's and The Westin Singaporeâ€™s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants. <br/>- Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties.<br/>All disputes about quality or performance of the product and/or services shall be resolved directly with The Westin Singapore.<br/>- Citibank and The Westin reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion. <br/>- \"Citibank\" \"refers to Citibank Singapore Limited. The term \"The Westin Singapore\" and \"Seasonal Tastes\" refers to Daisho Development Singapore Pte Ltd c/o The Westin Singapore.<br/><br/>For other Citi Cardmember Privileges click <a href=\"https://www.citiworldprivileges.com/sg-singapore\" target=\"_blank\">here</a>",
+       "offer3AccessTitle":"HOW TO ACCESS",
+       "offer3AccessSubTitle":"",
+       "offer3AccessCopy":"Heavenly Spa by Westin<sup>TM</sup>, The Westin Singapore<br/>The Westin Singapore, 12 Marina View, Asia Square Tower 2, Singapore - 018961<br/>Phone: +65 6922 6977<br/>For reservations, please email to <a href=\"Heavenlyspa.Singapore@westin.com\" target=\"_blank\">Heavenlyspa.Singapore@westin.com</a>"
+
+      
+   },
+   
+   "balance":{
+      "header":"ULTIMATE <br/>BALANCE",
+      "preTitle":"HEALTH & WELLNESS",
+      "subCopy":"Discover first-class health and wellness leisure activities to restore your body and mind.",
+      "conciergeTitle":"Exceptional service for the ultimate life.",
+      "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.",
+      "offer1Type":"",
+      "offer1Title":"CITI ULTIMA GOLF PRIVILEGES",
+      "offer1Button":"GOLF",
+      "offer1Copy":"Exclusive access to a curated selection of premier golf clubs around the world.",
+      "offer1IncludedTitle":"WHAT'S INCLUDED",
+      "offer1IncludedSubTitle":"",
+      "offer1IncludedCopy":"<ul><li><b>Unlimited Games:</b> Enjoy complimentary green fees and buggy at world-renowned <a href='http://www.citibank.com.sg/pdf/0925/Unlimited_Games.pdf' target='_blank'>participating golf clubs</a> (subject to changes) for Primary Cardmembers and one (1) guest. </li><li><b>Yearly Games:</b> Enjoy complimentary green fees up to three (3) times per calendar year at <a href='http://www.citibank.com.sg/pdf/0925/Yearly_games.pdf' target='_blank'>participating golf clubs</a> (subject to changes).</li><li><b>Quarterly Games:</b> Enjoy two (2) complimentary green fees per quarter at Sentosa Golf Club, Singapore with a minimum Qualifying Spend of S$25,000 made per quarter. </li></ul>",
+      "offer1DetailsTitle":"MORE DETAILS",
+      "offer1DetailsSubTitle":"",
+      "offer1DetailsCopy":"Other terms and restrictions from participating golf clubs apply.<br/><a href='#/terms-and-conditions/balance/1?icid=SGULUY8ENULTICAVC16' target='_blank'>Click here</a> for Terms and Conditions.",
+      "offer1AccessTitle":"HOW TO ACCESS",
+      "offer1AccessSubTitle":"",
+      "offer1AccessCopy":"Bookings must be made through your Citi ULTIMA Lifestyle Relationship Manager. Please do not contact participating clubs directly.",
+      "title1":"ULTIMA GOLF PRIVILEGES"
+         
+   },
+   "moments":{
+      "header":"ULTIMATE <br/>MOMENTS",
+      "preTitle":"EXPERIENCES",
+      "subCopy":"Enjoy a range of the most priceless Cardmember benefits worldwide, to turn your everyday into special occasions - brought to you by Mastercard.",
+      "subCopyVisa":"Enjoy a range of the most priceless Cardmember benefits worldwide, to turn your everyday into special occasions - brought to you by Visa.",
+      "offer1Type":"mastercard",
+      "offer1Title":"MASTERCARD PRICELESS EXPERIENCE",
+      "offer1Button":"MASTERCARD PRICELESS EXPERIENCE",
+      "offer1Copy":"Indulge in exclusive dining, entertainment, and whisky experiences. Elevate your world with the unparalleled offerings brought to you by Mastercard Priceless. <br/><br/>What's more, the Citi ULTIMA concierge can craft personalized luxury journeys to private island vacations, heart-pumping supercar driving experiences featuring the most coveted Lamborghinis, Porsches, and other supercars, as well as enchanting vineyard tours to top destinations and global expeditions.",
+      "offer1IncludedTitle":"WHAT'S INCLUDED",
+      "offer1IncludedSubTitle":"",
+      "offer1IncludedCopy":"",
+      "offer1DetailsTitle":"MORE DETAILS",
+      "offer1DetailsSubTitle":"",
+      "offer1DetailsCopy":"To view priceless experience, <a href='https://www.priceless.com/citiultima' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>click here</a>. For curated experience, please contact your Citi Ultima Lifestyle Relationship Manager ",
+      "offer1AccessTitle":"HOW TO ACCESS",
+      "offer1AccessSubTitle":"",
+      "offer1AccessCopy":"",      
+      "offer2Type":"mastercard",
+      "offer2Title":"MASTERCARD TRAVEL & LIFESTYLE SERVICES PREMIUM (MTLS)",
+      "offer2Button":"MASTERCARD TRAVEL & LIFESTYLE SERVICES PREMIUM (MTLS)",
+      "offer2Copy":"Enjoy the premium benefits at over 3,800 hotels and resorts worldwide with MTLS.",
+      "offer2IncludedTitle":"WHAT'S INCLUDED",
+      "offer2IncludedSubTitle":"",
+      "offer2IncludedCopy":"These may include:<ul><li>Complimentary breakfast for two daily </li><li>Room upgrade at time of arrival (subject to availability) </li><li>Early check-in and 3pm late check-out (subject to availability) </li><li>Amenities worth up to USD100 (subject to availability and varies by property). </li><li>Mastercard Lowest Hotel Rate Guarantee</li></ul>",
+      "offer2DetailsTitle":"MORE DETAILS",
+      "offer2DetailsSubTitle":"",
+      "offer2DetailsCopy":"<a href='https://travel.mastercard.com/product/mastercard/homepage/us/en-us' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>Click here</a> for more details.<br/><br/>Register for an account <a href='https://travel.mastercard.com/product/mastercard/homepage' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>here</a>.",
+      "offer2AccessTitle":"HOW TO ACCESS",
+      "offer2AccessSubTitle":"",
+      "offer2AccessCopy":"",
+      
+      "offer6Type":"mastercard",
+      "offer6Title":"PARKWAY SHENTON",
+      "offer6Button":"PARKWAY SHENTON",
+      "offer6Copy":"Executive Health Screening Packages for Citi ULTIMA Mastercard Cardmembers",
+      "offer6IncludedTitle":"WHAT'S INCLUDED",
+      "offer6IncludedSubTitle":"",
+      "offer6IncludedCopy":"",
+      "offer6DetailsTitle":"MORE DETAILS",
+      "offer6DetailsSubTitle":"",
+      "offer6DetailsCopy":"Prioritise your health and well-being with Parkway Shenton's executive medical screening packages.<br/><br/><a href='https://www.priceless.com/Priceless-citi-ultima?ac=CitiUltima' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>Click here</a> for terms and conditions. <br /> <table id='table1' > <tr style='border: 1px solid white;'> <th>&nbsp;</th><th>Male</th><th>Female</th> </tr> <tr style='border: 1px solid white;'> <td class='font-bold'>Screen Classic</td> <td>S$526.50</td> <td>S$562.50</td> </tr>  <tr style='border: 1px solid white;'> <td class='font-bold'>Screen Elite</td> <td>S$862.20</td> <td>S$898.20</td> </tr> <tr style='border: 1px solid white;'> <td class='font-bold'>Screen Exclusive</td> <td>S$1,530.00</td> <td>S$1,566.00</td> </tr>  <tr style='border: 1px solid white;'> <td class='font-bold'>Screen Signature</td> <td>S$2,419.20</td> <td>S$2,455.20</td> </tr>  <tr style='border: 1px solid white;'> <td class='font-bold'>Screen Premier</td> <td>S$3,600.00</td> <td>S$3,636.00</td> </tr> <tr style='border: 1px solid white;'> <td class='font-bold'>Screen Prestige</td> <td>S$5,749.20</td> <td>S$5,785.20</td> </tr> </table> <br />Offer is valid until 31 July 2026",
+      "offer6AccessTitle":"HOW TO ACCESS",
+      "offer6AccessSubTitle":"",
+      "offer6AccessCopy":"For enquiries and to make an appointment, contact Parkway Shenton.<br/>Call Executive Health Screening Hotline at +65 6280 0090<br/>Whatsapp Parkway Shenton +65 8660 0090<br/>Email ehs.customerservice@parkwaypantai.com",
+
+      "offer7Type":"visa",
+      "offer7Title":"LUXURY HOTEL COLLECTION",
+      "offer7Button":"Luxury Hotel Collection",
+      "offer7Copy":"The Luxury Hotel Collection offers best-in-class travel benefits exclusively for Citi ULTIMA Visa members. Enjoy these exclusive benefits and upgrades at participating luxury boutique hotels and resorts.",
+      "offer7IncludedTitle":"WHAT'S INCLUDED",
+      "offer7IncludedSubTitle":"",
+      "offer7IncludedCopy":"",
+      "offer7DetailsTitle":"MORE DETAILS",
+      "offer7DetailsSubTitle":"",
+      "offer7DetailsCopy":"To make your stay more enjoyable, you'll receive these special benefits:</br><ul><li>Automatic room upgrade</li><li>Complimentary in-room Wi-Fi</li><li>Complimentary daily continental breakfast</li><li>Late checkout upon request</li></ul></br></br>The above is subject to Hotel's availability and Terms and Conditions.",
+      "offer7AccessTitle":"HOW TO ACCESS",
+      "offer7AccessSubTitle":"",
+      "offer7AccessCopy":"To reserve your luxury hotel stay, please contact your Citi ULTIMA Lifestyle Relationship Manager.",
+      "offer8Type":"visa",
+      "offer8Title":"HERTZ CAR RENTAL PRIVILEGES",
+      "offer8Button":"HERTZ CAR RENTAL PRIVILEGES",
+      "offer8Copy":"Drive away with fabulous discounts and privileges from Hertz.",
+      "offer8IncludedTitle":"WHAT'S INCLUDED",
+      "offer8IncludedSubTitle":"",
+      "offer8IncludedCopy":"",
+      "offer8DetailsTitle":"MORE DETAILS",
+      "offer8DetailsSubTitle":"",
+      "offer8DetailsCopy":"<ul><li>Enjoy 10% off self-drive rentals</li><li>Enjoy 10% off self-drive rentals with One Complimentary Rental (with a minimum 6 or more days' rental)</li><li>Enjoy 10% off self-drive rentals and Free One Car Class Upgrade (with a minimum 5 or more days' rental)</li></ul>",
+      "offer8AccessTitle":"HOW TO ACCESS",
+      "offer8AccessSubTitle":"",
+      "offer8AccessCopy":"For bookings, please contact your Citi ULTIMA Lifestyle Relationship Manager.</br><i>Booking is subject to availability and payment must be settled with a Citi ULTIMA Card.</i></br><a href='https://www.visa.com.sg/en_sg/visa-offers-and-perks/hertz/115137' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>Click here</a> for HERTZ CAR RENTAL PRIVILEGES Terms and Conditions.",
+      "offer9Type":"mastercard",
+      "offer9Title":"HERTZ CAR RENTAL PRIVILEGES",
+      "offer9Button":"HERTZ CAR RENTAL PRIVILEGES",
+      "offer9Copy":"Whether you are travelling for business or pleasure, you can be assured of quality cars and a wide range of services that make Hertz your first choice of car rental.",
+      "offer9IncludedTitle":"WHAT'S INCLUDED",
+      "offer9IncludedSubTitle":"",
+      "offer9IncludedCopy":"",
+      "offer9DetailsTitle":"MORE DETAILS",
+      "offer9DetailsSubTitle":"",
+      "offer9DetailsCopy":"<ul><li>Enjoy exclusive privileges for Mastercard cardholders:</li><li>10% savings worldwide with minimum 1 day rental in participating locations in Asia#, Australia, New Zealand, USA, Canada and Europe<sup>^</sup>.</li><li>#Asia includes Brunei, Cambodia, Hong Kong, Laos, Malaysia, Pakistan, Philippines, Singapore, South Korea, Sri Lanka, Taiwan, Thailand and Vietnam.</li><li><sup>^</sup>Europe includes Belgium, France, Germany, Italy, Luxembourg, Netherlands, Spain Mainland and UK.</li><br><br>Please quote applicable CDP# at time of reservation:<br>World Elite 2122000<br><br>Valid until 2028-12-31</ul>",
+      "offer9AccessTitle":"HOW TO ACCESS",
+      "offer9AccessSubTitle":"",
+      "offer9AccessCopy":"For bookings, please contact your Citi ULTIMA Lifestyle Relationship Manager.</br><i>Booking is subject to availability and payment must be settled with a Citi ULTIMA World Elite Mastercard..</i></br><a href='https://specials.priceless.com/en-sg/offers/Hertz_Car_Rental?Oid=201811061196&issuerId=201810190021&productId=202310170001' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>Click here</a> for HERTZ CAR RENTAL PRIVILEGES Terms and Conditions."
+   },
+   "delights":{
+      "header":"ULTIMATE <br/>DELIGHTS",
+      "preTitle":"BESPOKE OFFERS",
+      "subCopy":"Be delighted by surprise experiences and invitations to exclusive events.",
+      "offer2Type":"",
+      "offer2Title":"MBS",
+      "offer2Button":"MBS",
+      "offer2Copy":"Complimentary upgrade to Elite tier membership for 3 months",
+      "offer2IncludedTitle":"WHAT'S INCLUDED",
+      "offer2IncludedSubTitle":"",
+      "offer2IncludedCopy":"<ul><li> Eligible Citi ULTIMA cardmembers who sign up for Sands Lifestyle membership during this period will receive a complimentary 3-month membership upgrade to Marina Bay Sands loyalty program â€œSands Lifestyle Elite Tierâ€.</li><li> Citi ULTIMA cardmembers who achieve a minimum spend of SGD15,000 on transactions which are eligible to receive Rewards Dollars during this 3-month period from the date of upgrade will enjoy another 9-month period at Elite Tier, commencing immediately after the first period expires.</li><li> In the case of cardmembers who do not meet the minimum spend amount, they will be downgraded to the Prestige tier at the end of the initial 3-month period.</li></ul>",
+      "offer2DetailsTitle":"MORE DETAILS",
+      "offer2DetailsSubTitle":"",
+      "offer2DetailsCopy":"<a href='#/terms-and-conditions/delights/3?icid=SGULUY8ENULTICAVC17' target='_blank'>Full terms & conditions apply.</a>",
+      "offer2AccessTitle":"HOW TO ACCESS",
+      "offer2AccessSubTitle":"",
+      "offer2AccessCopy":"Cardmembers are to redeem the complimentary membership at the below locations at Marina Bay Sands: </br><ul><li>Lobby, Hotel Tower 1 Daily: 10am - 10.30pm</li><li>The Shoppes, B1 (above Sampan Rides) Daily: 10am - 11pm</li><li> The Shoppes, B2 (near Digital Light Canvas) Daily: 10am - 11pm</li></ul>",
+      "offer3Type":"",
+      "offer3Title":"BIRTHDAY DELIGHTS",
+      "offer3Button":"BIRTHDAY DELIGHTS",
+      "offer3Copy":"On your special day, enjoy an irresistible treat at TWG Tea.",
+      "offer3IncludedTitle":"WHAT'S INCLUDED",
+      "offer3IncludedSubTitle":"",
+      "offer3IncludedCopy":"<b>CITI ULTIMA BIRTHDAY DELIGHTS (1\u00A0AUGUST\u00A02025 - 31\u00A0JULY\u00A02027)</b><br/><ul style='margin-top: 12px;'><li>Choose between an Exclusive Whole Cake, a Weekday Dinner Set for 2, or a Grand Explorer Tea Set.</li><li> In addition to the above, Citi ULTIMA Cardmembers will also enjoy S$10<sup>*</sup> off for any in-store purchases at all TWG Tea Boutiques except Changi Airport.</li></ul><br/><p><sup>*</sup>Discount is applicable with a minimum of S$100 retail spend in a single receipt. Minimum spend can be waived for existing MyTWG members or if the Citi ULTIMA cardmember signs up for the MyTWG membership programme.</p>",
+      "offer3DetailsTitle":"MORE DETAILS",
+      "offer3DetailsSubTitle":"",
+      "offer3DetailsCopy":"<a href='#/terms-and-conditions/delights/1?icid=SGULUY8ENULTICAVC18' target='_blank'>Full terms & conditions apply.</a>",
+      "offer3AccessTitle":"HOW TO ACCESS",
+      "offer3AccessSubTitle":"",
+      "offer3AccessCopy":"An email notification will be sent to you on your birthday month for steps on redemption.",      
+      "thankyouTitle": "Citi ThankYou<sup>SM</sup> Rewards Promotion",
+      "thankyouBody": "To spread even more joy this festive season, enjoy an exclusive 25% off redemptions when you offset your purchases with Citi Pay with Points. From now until 29 Feb 2024, redeem vouchers of your choice from our curated list of partners via the Citi ThankYou Rewards portal.<br/><br/>View Terms and Conditions. (URL to be supplied later)",
+      "thankyouBtn1": "REDEEM NOW",
+      "thankyouBtn1Link": "https://mobile.citibank.com.sg/GMP/JSO/presignon/deeplink.action?page=payWithPointsOdy",
+      "thankyouBtn2": "REDEEM VOUCHERS NOW",
+      "thankyouBtn2Link": "https://www.citirewards.com/cms/sites/globalrewards-sg-eng/index.page", 
+      "thankyouTitleVisa": "Citi ThankYou<sup>SM</sup> Rewards Promotion",
+      "thankyouBodyVisa": "To spread even more joy this festive season, enjoy an exclusive 25% off redemptions when you offset your purchases with Citi Pay with Points. From now until 29 Feb 2024, redeem vouchers of your choice from our curated list of partners via the Redemption Catalogue.<br/><br/>For a seamless experience, make your redemptions with the Citi Mobile<sup>Â®</sup> App.<br/><br/>View Terms and Conditions. (URL to be supplied later)",
+      "thankyouBtn1Visa": "REDEEM NOW",
+      "thankyouBtn1LinkVisa": "https://mobile.citibank.com.sg/GMP/JSO/presignon/deeplink.action?page=payWithPointsOdy",
+      "thankyouBtn2Visa": "REDEEM VOUCHERS NOW",
+      "thankyouBtn2LinkVisa": "https://mobile.citibank.com.sg/GMP/JSO/presignon/deeplink.action?page=redemptionCatalogue"
+   },
+   "rewards":{
+      "header":"MEMBER <br/> PRIVILEGES",
+      "subCopy":"", 
+      "reward1Title":"Welcome and<br/>Renewal Gift",
+      "reward1Copy1":"Receive a welcome gift of 375,000 ThankYou<sup>SM</sup> Points (150,000 miles) when you onboard as a Citi ULTIMA Cardmember and make a full payment of the annual membership fee.<br/><br/>Renew and make full payment of the annual membership fee and receive a renewal gift of 375,000 Points (150,000 miles)",
+      "reward1Copy2":"<a href='#/terms-and-conditions/memberPrivileges/1?icid=SGULUY8ENULTICAVC01' target='_blank'>View terms & conditions.</a>",       
+        
+      "reward3Title":"Accelerated Points",
+      "reward3Copy1":"Earn 5 Citi ThankYou<sup>SM</sup> Points (2 Miles) for every eligible S$1 foreign currency spend and 4 Citi ThankYou<sup>SM</sup> Points (1.6 Miles) for every eligible S$1 spent locally with your Citi ULTIMA Card. Your points never expire. </br>",
+      "reward3Copy2":"<a href='#/terms-and-conditions/memberPrivileges/3?icid=SGULUY8ENULTICAVC03' target='_blank'>View terms & conditions.</a>"
+   },
+   "master":{
+      "header":"CONTINUE LIVING THE ULTIMATE LIFE<br/>WITH MASTERCARD",
+      "preTitle":"",
+      "subCopy":"Citi will be progressively converting our credit cards to the Mastercard network.<br/><br/>As part of this change, we wish to inform you that your Citi ULTIMA Main and Supplementary Visa card(s) (if any) will be discontinued soon. To ensure you can continue enjoying your Citi ULTIMA benefits and experience a seamless conversion of your Citi ULTIMA Visa Card, please activate the Citi Mastercard.<br/><br/>The new Citi ULTIMA Mastercard has been mailed to you, together with the activation details. Once activated, you will continue to enjoy all the Citi ULTIMA privileges on the ULTIMA Mastercard. You will also have access to exclusive ULTIMA Mastercard priceless experiences.<br/><br/>Please refer to the notification email where the formal discontinuation date has been shared.",
+      "features":{
+         "buttonText":"Visit FAQs here",
+         "buttonLink":"https://www.citibank.com.sg/mcultima/?icid=SGULUY8ENULTICAVC247",
+         "title":"What will change",
+         "title2":"what will stay the same",
+         "number":"New credit card number, CVV & expiry date",
+         "recur":"Recurring payments need to be re-established",
+         "discount":"All existing ULTIMA benefits, including the finest travel access and privileges, exquisite culinary artistry, premium golf course access, and exceptional wellness treatments",
+         "pass":"Register the new Citi Mastercard on the Priority Pass App to enjoy complimentary visits for yourself and up to 2 supplementary cards to airport lounges worldwide<sup>1</sup>",
+         "balance":"Outstanding balance, available Citi ThankYou<sup>SM</sup> Points, Citi PayAll & Citi instalment loan(s)<sup>2</sup> and/or balance transfer(s) will be transferred to Citi Mastercard",
+         "spend":"Earn 5 Citi ThankYou<sup>SM</sup> Points for every eligible S$1 foreign currency spend and 4 Citi ThankYou<sup>SM</sup> Points for every eligible S$1 spent locally",
+         "lux":"Enjoy a great selection of luxury hotels",         
+         "infinite":"No expiry on Citi ThankYou<sup>SM</sup> Points",
+         "credit":"Credit limit, fees and terms"         
+      },
+      "activate":{
+         "title":"HOW TO ACTIVATE the NEW CITI MASTERCARD",
+         "button1":"Main Cardmember (Citi MobileÂ® App and Citibank online)",
+         "button2":"Supplementary Cardmember (Citi MobileÂ® App and Citibank online)",
+         "button3":"SMS or Phone",
+         "subtitle":"How to activate via Citi MobileÂ® App and Citibank Online",
+         "frame1":"Log in to the Citi MobileÂ® App or Citibank Online and click <strong>\"Activate your Citi Mastercard\"</strong>",
+         "frame2":"You will be taken to a page with details of the conversion to Mastercard. Click <strong>\"Activate to accept\"</strong>",
+         "frame3":"Enter your CVV and click <strong>\"Confirm\"</strong> to complete your activation"
+      },
+      "activateTwo":{
+         "title":"How to activate via Citi MobileÂ® App and Citibank Online",
+         "column1Title":"Citi MobileÂ® App",
+         "column1Text1":"Log in and click <strong>\"Manage\"</strong> on <strong>\"the Homescreen\"</strong>",
+         "column1Text2":"Tap on <strong>\"Activate your new card\"</strong>",
+         "column1Text3":"Enter the CVV and tap <strong>\"Activate\"</strong>",
+         "column2Title":"Citibank Online",
+         "column2Text1":"Visit www.citibank.com.sg. Click on <strong>\"Sign On\"</strong>,<br/>followed by <strong>\"Citibank Online\"</strong>",
+         "column2Text2":"Under <strong>\"Services\"</strong> > <strong>\"My Profile\"</strong>,<br/>click on <strong>\"Card Activation (Local)\"</strong>",
+         "column2Text3":"Follow the steps on-screen to complete<br/>your activation"
+      },
+      "activateThree":{
+         "title":"How to activate via SMS or Phone",
+         "column1Main":"SMS ACTMC<space>last 4-digit of Citi Mastercard card number",
+         "column1Supplementary":"SMS ACT<space>last 4-digit of Citi Mastercard card number",
+         "column2Phone":"6225 5225"
+      },
+      "leftImage":{
+         "title":"More details",
+         "copy":"We have sent you the Citi Mastercard, and supplementary card(s) (if any), to ensure you can continue enjoying your Citi ULTIMA benefits and experience a seamless conversion from your Citi Visa card.<br/><br/>Upon activation of the Citi Mastercard, any outstanding balance, available ThankYou<sup>SM</sup> Points, Citi PayAll and Citi instalment loan(s)<sup>2</sup> and/or balance transfer(s) will be transferred from your Citi Visa card to Citi Mastercard.<br/><br/>To ensure continuity of your ULTIMA card and privileges, please activate the new Citi Mastercard as soon as possible.<br/><br/>Your Lifestyle Relationship Manager will be on hand to fully assist with any enquiries through this conversion.",
+         "buttonText":"Activate Now",
+         "buttonLink":"https://www.citibank.com.sg/personal-banking/online-services/mobile-banking/citi-mobile-app?&icid=SGPRUYIENASCALM01",
+         "bottomCopy":""
+      },      
+      "footer":{
+         "title1":"Important Information",
+         "copy1":"Fees, Interests and Charges: The terms and conditions governing the main and supplementary (if any) Citi Mastercard can be found at Cardmember's Agreement<sup>3</sup>. The fees, interest and charges can be viewed via the Fees and Rate schedule<sup>4</sup>.<br/><br/>Not liable if you do not activate: Please be assured that the main cardmember will not be liable for any amount charged to the main and Supplementary (if any) Citi Mastercard if the main does not activate the main Citi Mastercard. The main and supplementary cardmember will not be liable for any amounts charged to the supplementary card if both main and supplementary cardmember have not activated the main and supplementary Citi Mastercard respectively. By activating, a cardmember accepts the terms of use of the Citi Mastercard in accordance with the Mastercard Conversion Terms and Conditions<sup>5</sup>.<br/><br/>No Additional Credit: No additional credit will be granted in respect of the main and supplementary (if any) Citi Mastercard.<br/><br/><ol><li>Visit <a style='line-break: anywhere;' href='http://www.citibank.com.sg/prioritypass/ultima?icid=SGULUY8ENULTICAVC248' target='_blank'>http://www.citibank.com.sg/prioritypass/ultima</a> for more information on the registration of the new Citi Mastercard on the Priority Pass App.</li><li>Existing loan will include but not limited to Citi Quick Cash, Citi Paylite, Citi Flexibill, Citi Balance Transfer or Citi Flexibuy.</li><li>View the Citi ULTIMA Cardmemberâ€™s Agreement at <a style='line-break: anywhere;' href='https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/pdfs/Citi_ULTIMA_Cardmember_Agreement.pdf?icid=SGULUY8ENULTICAVC249' target='_blank'>www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/pdfs/Citi_ULTIMA_Cardmember_Agreement.pdf</a></li><li>Visit <a href='http://www.citibank.com.sg/bankingfees?icid=SGULUY8ENULTICAVC250' target='_blank'>www.citibank.com.sg/bankingfees</a> for applicable fees and charges</li><li>View the Mastercard Conversion Program Terms & Conditions at <a href='/mctncs/?icid=SGULUY8ENULTICAVC251' target='_blank'>www.citibank.com.sg/mctncs</a></li></ol>",
+         "title2":"Terms and Conditions",
+         "copy2":"Terms and Conditions apply to all Citi ULTIMA Card privileges. Visit <a href='http://www.citibank.com.sg/ultimamctnc?icid=SGULUY8ENULTICAVC252' target='_blank'>www.citibank.com.sg/ultimamctnc</a> for Citi ULTIMA Card privileges terms and conditions, Cardmember's Agreement, the Information Sheet reflecting the principal terms of your Cardmember's Agreement and the ABS (Association of Banks of Singapore) credit card guide.<br/><br/>As part of our commitment to fair dealing, we wish to notify you that the terms and conditions governing your product and/or service relationship with us contain clauses that give us the unilateral right to revise such terms and conditions. For the Notification of Right of Review Clauses, visit the Citibank Singapore website, click on Terms and Conditions at the bottom of the page, followed by General tab."
+      },
+      "faqTitle":"FREQUENTLY ASKED QUESTIONS (FAQs)",
+      "termsList": [
+         {
+            "title": "Is the conversion of my Visa card to Mastercard mandatory?",
+            "subTitle": "",
+            "copy": "No. It is not mandatory.<br/><br/>We have sent you a corresponding Mastercard, so you can continue to enjoy the same benefits offered by your Visa Card. If you choose to activate your Mastercard, any outstanding balance (credit or debit), available Citi Miles/Citi ThankYou<sup>SM</sup> Points/cash back, Citi PayAll and Citi instalment loan(s) and/or balance transfer(s) - where applicable - will be transferred from your Visa card to Mastercard.<br/><br/>Credit limit, fees and terms will remain unchanged. For more information, please visit <a href='https://www.citibank.com.sg/mcultima/?icid=SGULUY8ENULTICAVC253' target='_blank'>https://www.citibank.com.sg/mcultima</a>"
+         },
+         {
+            "title": "Why am I receiving a new Mastercard?",
+            "subTitle": "",
+            "copy": "We are progressively converting your Citi Visa card to the corresponding Mastercard. In line with this move, your Citi ULTIMA Visa card will be discontinued on the date specified in the email we sent you. We have sent you a Mastercard so you can continue to enjoy the same benefits offered by your Visa card.<br/><br/>Once you activate your Mastercard, any outstanding balance (credit or debit), available Citi ThankYou<sup>SM</sup> Points, Citi PayAll and Citi instalment loan(s) and/or balance transfer(s) - where applicable - will be transferred from your Visa card to Mastercard."
+         },
+         {
+            "title": "I don't want to receive the Mastercard, what can I do?",
+            "subTitle": "",
+            "copy": "We encourage you to activate your Mastercard to continue enjoying the same Citi benefits and for a seamless conversion of your unutilised Citi ThankYou<sup>SM</sup> Points on your Visa to your Mastercard.<br/>If you do not wish to activate the Mastercard, your Visa card will be discontinued on the date specified in the email we sent you."
+         },
+         {
+            "title": "When will I receive my Mastercard?",
+            "subTitle": "",
+            "copy": "You will receive your Main and Supplementary Citi ULTIMA Mastercard within 2 weeks from when you have received an email notification from us informing you of the upcoming deactivation of your Visa card."
+         },
+         {
+            "title": "Where will I receive my Mastercard?",
+            "subTitle": "",
+            "copy": "The Mastercard for both main and Supplementary cards are being sent to the mailing address of main cardmember"
+         },
+         {
+            "title": "What happens if I wish to change my card delivery address?",
+            "subTitle": "",
+            "copy": "You can update your delivery address via Citibank Online or contacting your Lifestyle Relationship Manager for assistance<br/><br/>Via Citibank Online:<ol><li>After logging on, click on \"Personal Information\"</li><li>Click \"Update My Profile\" under \"Account Setting\" and input One-Time Password to proceed</li><li>Click \"Update Information\" button at the bottom</li><li>You can update your correspondence address, home phone number, office phone number and your email address</li><li>Input and verify your new information and follow the steps for authentication</li><li>Your information has been successfully submitted</li></ol><br/>Via Lifestyle Relationship Manager:<br/>Please contact your Lifestyle Relationship Manager for further instructions on change in delivery address"
+         },
+         {
+            "title": "When will I need to activate the main Mastercard card sent to me?",
+            "subTitle": "",
+            "copy": "You will need to activate the main Mastercard before the date when your main Visa card will be discontinued. This date is specified in the email we have sent you.<br/><br/>The main cardmember will need to activate his/her main Mastercard first, before the Supplementary cardmember(s) can activate their Supplementary Mastercard. Please refer to Supplementary card section on the period within which the Supplementary cardmembers need to activate their Supplementary Mastercard."
+         },
+         {
+            "title": "What happens when I activate the main Mastercard?",
+            "subTitle": "",
+            "copy": "<ol><li>You will not be able to use your main Citi ULTIMA Visa anymore.</li><li>Any outstanding balance on your Citi ULTIMA Visa will be transferred to the Mastercard by the following day after your have activated the Mastercard.</li><li>All instalment loan(s) and/or balance transfer(s) on your Citi ULTIMA Visa will be transferred to the Mastercard by the following day after you have activated the Mastercard. After transfer, there will be no change to the existing loan tenure as per your Visa card.</li><li>The Citi ThankYou<sup>SM</sup> Points available on your Visa card will be transferred to the Mastercard by the following day after you have activated the Mastercard. There will be no change to expiry date, if applicable, for the Citi ThankYou<sup>SM</sup> Points transferred to Mastercard.</li><li>Citi PayAll arrangement(s) that have been established on your main Citi ULTIMA Visa will be transferred to the Mastercard by the following day after you have activated the Mastercard.</li><li>As your card details will change, any recurring payments will need to be re-established with the relevant merchant/billing organization with the new Mastercard details.</li></ol>"
+         },
+         {
+            "title": "Can I use my Citi ULTIMA Visa after I activate the Mastercard?",
+            "subTitle": "",
+            "copy": "Once you have activated the Mastercard, you can no longer use your Citi ULTIMA Visa."
+         },
+         {
+            "title": "Do I need to set up a new ATM pin after I have activated the Mastercard?",
+            "subTitle": "",
+            "copy": "No. If you have an existing ATM pin on your Visa card, you can use the same for the Mastercard."
+         },
+         {
+            "title": "Will the eligible spending made on my Visa card towards qualifying for existing campaigns continue to apply after I activate the Mastercard?",
+            "subTitle": "",
+            "copy": "Yes, the eligible spending made on your Visa card to qualify for existing campaigns will continue to apply after they are migrated to the Mastercard after Mastercard is activated."
+         },
+         {
+            "title": "Will I need to update my mobile wallet after I have activated the Mastercard?",
+            "subTitle": "",
+            "copy": "Yes, you will need to update your mobile wallet with the new Mastercard number."
+         },
+         {
+            "title": "What are the fees associated with the new Mastercard?",
+            "subTitle": "",
+            "copy": "The annual fees and Supplementary card fees on your Mastercard are currently the same as on your Visa card. You will continue to pay the fees on the same card anniversary date as before."
+         },
+         {
+            "title": "Will I be able to retrieve previous statements of my Visa card after I activate the Mastercard?",
+            "subTitle": "",
+            "copy": "Yes, you will continue to view your previous statements via Citi MobileÂ® App or Citi Online"
+         },
+         {
+            "title": "What do I need to do about my recurring bill payments?",
+            "subTitle": "",
+            "copy": "As your card details will change, any recurring payments will need to be re-established with the relevant merchant/billing organisation with the new Citi Mastercard details."
+         },
+         {
+            "title": "What happens if I do not activate the main Mastercard?",
+            "subTitle": "",
+            "copy": "<ol><li>Your Citi ULTIMA Visa will be discontinued on the date specified in the email we sent to you. You will no longer be able to use your Citi ULTIMA Visa.</li><li>You will no longer be able to make new transactions, set up new Citi PayAll, take up new loans/extend existing loans or apply for credit limit adjustment/Supplementary card.</li><li>You will no longer be able to earn/redeem Citi ThankYou<sup>SM</sup> Points. Citi ThankYou<sup>SM</sup> Points are no longer awarded from Visa discontinuation date. Transactions which are posted on/after Visa discontinuation date no longer qualify for Citi ThankYou<sup>SM</sup> Points.</li><li>Any recurring bill arrangements scheduled from this date will be cancelled.</li><li>Any Citi PayAll payment arrangements (one-time or recurring) scheduled from this date will be cancelled.</li><li>Even though your Citi ULTIMA Visa has been discontinued, any outstanding instalment loan(s) and/or Balance Transfer loans will remain effective as per existing loan tenure and will continue to reflect on your monthly statement until full payment is made or until the end of the loan tenure. Interests and charges will continue to apply, where applicable.</li></ol>"
+         },
+         {
+            "title": "Can I activate my Citi ULTIMA Mastercard after my Citi ULTIMA Visa card has been deactivated?",
+            "subTitle": "",
+            "copy": "No, you will not be able to activate your Citi ULTIMA Mastercard after your Citi ULTIMA Visa has been deactivated"
+         },
+         {
+            "title": "When will I receive my Supplementary Mastercard?",
+            "subTitle": "",
+            "copy": "You will receive your Main and Supplementary Citi ULTIMA Mastercard within 2 weeks from when you have received the official pre-notification email from the bank informing you of the upcoming deactivation of your Visa card."
+         },
+         {
+            "title": "Where will I receive my Supplementary Mastercard?",
+            "subTitle": "",
+            "copy": "The Mastercard for both main and Supplementary cards are being sent to the mailing address of main cardmember"
+         },
+         {
+            "title": "What happens if I wish to change my Supplementary card delivery address to a different address from the Main card?",
+            "subTitle": "",
+            "copy": "For delivery address change for your Supplementary card, please contact your Lifestyle Relationship Manager for further instructions"
+         },
+         {
+            "title": "Can I activate my Supplementary Citi ULTIMA Mastercard before I activate my Main Citi ULTIMA Mastercard?",
+            "subTitle": "",
+            "copy": "No. The main cardmember will need to activate his/her main Mastercard first, before the Supplementary cardmember(s) can activate their Supplementary Mastercard."
+         },
+         {
+            "title": "When will I need to activate the Supplementary Mastercard sent to me?",
+            "subTitle": "",
+            "copy": "Please note that your main cardmember will need to activate his/her main Mastercard first, before you can activate the Supplementary Mastercard.<br/><br/>You will need to activate the Supplementary Mastercard within 30 days from when your main cardmember has activated his/her main Mastercard or before the date your Supplementary Visa card will be discontinued, whichever is earlier. The date when your Supplementary Visa card will be discontinued is specified in the email we have sent you and your main cardmember."
+         },
+         {
+            "title": "What happens when I activate the Supplementary Mastercard?",
+            "subTitle": "",
+            "copy": "<ol><li>You will not be able to use your Supplementary Citi ULTIMA Visa anymore</li><li>Any outstanding balance on your Supplementary Citi ULTIMA Visa will be transferred to the Citi ULTIMA Mastercard, the following day after activation of the Citi ULTIMA Mastercard</li><li>Citi PayAll arrangement(s) that have been established on your Citi ULTIMA Visa Supplementary Card will be transferred to the Citi ULTIMA Mastercard, the following day after activation of the Citi ULTIMA Mastercard</li><li>As your card details will change, any recurring payments will need to be re-established with the relevant merchant/billing organization with the new Mastercard details.</li></ol><br/><p>Please note that your main cardmember will need to activate his/her main Mastercard first, before you can activate the Supplementary Mastercard. You will need to activate the Supplementary Mastercard within 90 days from when your main cardmember has activated his/her main Mastercard or before the date your Supplementary Visa card will be discontinued, whichever is earlier. The date when your Supplementary Visa card will be discontinued is specified in the email we have sent you and your main cardmember.</p>"
+         },
+         {
+            "title": "Can I use my Supplementary Citi ULTIMA Visa after I activate the Mastercard?",
+            "subTitle": "",
+            "copy": "Once you have activated the Supplementary Citi ULTIMA Mastercard, you can no longer use your Supplementary Citi ULTIMA Visa."
+         },
+         {
+            "title": "Can I activate my Supplementary Citi ULTIMA Mastercard after my Supplementary Citi ULTIMA Visa card has been deactivated?",
+            "subTitle": "",
+            "copy": "No, you will not be able to activate your Supplementary Citi ULTIMA Mastercard after your Citi ULTIMA Visa has been deactivated"
+         },
+         {
+            "title": "What happens if I do not activate the Supplementary Mastercard?",
+            "subTitle": "",
+            "copy": "<ol><li>Your Supplementary Citi ULTIMA Visa will be discontinued on the date specified in the email we sent to you. You will no longer be able to use your Supplementary Citi ULTIMA Visa</li><li>You will no longer be able to make new transactions, set up new Citi PayAll on your Supplementary Card</li><li>You will no longer be able to earn Citi ThankYou<sup>SM</sup> Points on your Supplementary Card</li><li>Any recurring bill arrangements scheduled from this date will be cancelled.</li><li>Any Citi PayAll payment arrangements (one-time or recurring) scheduled from this date will be cancelled</li></ol>"
+         },
+         {
+            "title": "Do I need to register for a new Priority Pass Membership with the Mastercard I have activated?",
+            "subTitle": "",
+            "copy": "Yes. You will receive a new unique invitation code on Citi MobileÂ® App within 10 working days after you have activated your Citi ULTIMA Mastercard. Complete your registration with your unique invitation code at <a href='https://www.citibank.com.sg/prioritypass/ultima?icid=SGULUY8ENULTICAVC254' target='_blank'>https://www.citibank.com.sg/prioritypass/ultima</a><br/><br/>If you have previously registered for Priority Pass Membership with your Citi ULTIMA Visa, the membership will be terminated."
+         },
+         {
+            "title": "What happens to my existing Complimentary Hotel Night Program booking when I migrate over to Mastercard?",
+            "subTitle": "",
+            "copy": "There will be no changes to your booking, you can check in at your hotel as per usual process and pay with your Citi ULTIMA Mastercard."
+         },
+         {
+            "title": "What happens if I need to make a new Complimentary Hotel Night Program booking?",
+            "subTitle": "",
+            "copy": "You can reach out to your Lifestyle Relationship Manager as usual, and they will be ready to help you make any new booking.<br/>Please refer to <a href='https://ult.kiwihotelcollection.com/' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>https://ult.kiwihotelcollection.com/</a> for the full list of hotels, availability, rates and inclusions"
+         },
+         {
+            "title": "Are there changes to the property list of the Complimentary Hotel Night Program?",
+            "subTitle": "",
+            "copy": "All the hotels will remain available as before, along with additions of new properties.<br/>Please refer to <a href='https://ult.kiwihotelcollection.com/' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>https://ult.kiwihotelcollection.com/</a> for the full list of hotels, availability, rates and inclusions. Terms and conditions apply, please refer to <a href='https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/#/terms-and-conditions?icid=SGULUY8ENULTICAVC255' target='_blank'>https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/#/terms-and-conditions</a> for the full terms and conditions."
+         },
+         {
+            "title": "Are there any changes to the Complimentary Hotel Night Program inclusions and perks?",
+            "subTitle": "",
+            "copy": "New bookings may include Kiwi Perks such as:<br/>- USD25 F&B credit<br/>- Complimentary breakfast<br/>- Other perks, upgrades amenities and etc., subject to availability<br/>Please refer to <a href='https://ult.kiwihotelcollection.com/' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>https://ult.kiwihotelcollection.com/</a> for the list of hotels, availability, rates and inclusions.Terms and conditions apply, please refer to <a href='https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/#/terms-and-conditions?icid=SGULUY8ENULTICAVC256' target='_blank'>https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/#/terms-and-conditions</a> for the full terms and conditions."
+         },
+         {
+            "title": "What happens if I need to make modifications to my existing flight booking?",
+            "subTitle": "",
+            "copy": "You can reach out to your Lifestyle Relationship Manager as usual, and they will assist you in making modifications to your flight booking, including cancellation, subject to fare restrictions and airline policies.<br/><br/>Payment for modifications and cancellation charges can be made with either the Citi ULTIMA Mastercard or Citi ULTIMA Visa, whichever is active"
+         },
+         {
+            "title": "What happens if I need to make a new Complimentary Hotel Night Program booking?",
+            "subTitle": "",
+            "copy": "You can contact your Lifestyle Relationship Manager as usual, and they will assist you in creating a new travel profile for your Citi ULTIMA Mastercard, updating your card details, and making the booking."
+         },
+         {
+            "title": "Are there any changes to the eligible flights?",
+            "subTitle": "",
+            "copy": "All eligible carriers and T&Cs remain unchanged"
+         },
+         {
+            "title": "What happens if I need to make modifications to my existing airport limo booking?",
+            "subTitle": "",
+            "copy": "You can reach out to your Lifestyle Relationship Manager as usual on any modifcations or cancellations to your existing booking, subject to the benefit T&Cs.<br/><br/>Payment for modifications and cancellation charges can be made with either the Citi ULTIMA Mastercard or Citi ULTIMA Visa, whichever is active"
+         },
+         {
+            "title": "What happens if I need to make a new airport limo booking?",
+            "subTitle": "",
+            "copy": "You can contact your Lifestyle Relationship Manager as usual, and they will assist with checking your eligibility and making the booking.<br/><br/>If you have received but not activated your Citi ULTIMA Mastercard, you are highly encouraged to do so before requesting for a new booking to ensure a smooth transition"
+         },
+         {
+            "title": "What happens if I need to make modifications to my existing airport meet & greet booking?",
+            "subTitle": "",
+            "copy": "You can reach out to your Lifestyle Relationship Manager as usual on any modifcations or cancellations to your existing booking, subject to the benefit T&Cs.<br/><br/>Payment for modifications and cancellation charges can be made with either the Citi ULTIMA Mastercard or Citi ULTIMA Visa, whichever is active"
+         },
+         {
+            "title": "What happens if I need to make a new airport meet and greet booking?",
+            "subTitle": "",
+            "copy": "You can contact your Lifestyle Relationship Manager as usual, and they will assist with checking your eligibility and making the booking.<br/><br/>If you have received but not activated your Citi ULTIMA Mastercard, you are highly encouraged to do so before requesting for a new booking to ensure a smooth transition"
+         },
+         {
+            "title": "What happens if I need to make modifications to my existing golf booking?",
+            "subTitle": "",
+            "copy": "You can reach out to your Lifestyle Relationship Manager as usual on any modifcations or cancellations to your existing booking, subject to the benefit T&Cs.<br/><br/>Payment for modifications and cancellation charges can be made with either the Citi ULTIMA Mastercard or Citi ULTIMA Visa, whichever is active"
+         },
+         {
+            "title": "What happens if I need to make a new golf booking?",
+            "subTitle": "",
+            "copy": "You can contact your Lifestyle Relationship Manager as usual, and they will assist with checking your eligibility and making the booking. <br/><br/>If you have received but have not activated your Citi ULTIMA Mastercard, you are highly encouraged to do so before requesting for a new booking to ensure a smooth transition"
+         },
+         {
+            "title": "For Sentosa Golf Club entitlement, will my qualifying spend from Citi ULTIMA Visa taken into account when I migrate over to Citi ULTIMA Mastercard?",
+            "subTitle": "",
+            "copy": "Yes, your qualifying spend made on the Citi ULTIMA Visa and Citi ULTIMA Mastercard during the quarter will be consolidated. If the qualifying spend condition is met, you are entitled to 2x complimentary green fees at Sentosa Golf Club in the next quarter. Terms and conditions apply, please refer to <a href='https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/#/terms-and-conditions' target='_blank'>https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/#/terms-and-conditions</a> for the full terms and conditions."
+         }
+      ]
+   },
+   "dedication":{
+      "header":"ULTIMATE <br/> Dedication",
+      "preTitle":"CONTACT US",
+      "subCopy":"Experience dedicated service at its best.",
+      "conciergeTitle":"Exceptional service for the ultimate life.",
+      "conciergeBody":"It is our commitment to go above and beyond; to create unique experiences that inspire you and leave treasured memories.<br/><br/>Whether it is searching for that limited-edition timepiece, or crafting that delectable epicurean experience, rest assured that every detail will be taken care of.<br/><br/>A world of exceptional experiences awaits you.",
+      "call1Title":"CONCIERGE SERVICES",
+      "call1Copy":"From travel and entertainment to everyday tasks such as organizing a delivery, our global Citi ULTIMA Concierge team is here to support your lifestyle at home or abroad.",
+      "call1Phone":"(65) 6334 7598",
+      "call2Title":"CITI ULTIMA SERVICE LINE",
+      "call2Copy":"We're always here to help. For assistance, please call our ULTIMA Service Line from 8am to 8pm.",
+      "call2Phone":"(65) 6225 5222",
+      "call3Title":"FRAUD HOTLINE",
+      "call3Copy":"Please call our 24/7 Fraud Hotline or emergency services.",
+      "call3Phone":"(65) 6337 5519",
+      "overseasTitle":"FOR OVERSEAS ASSISTANCE",
+      "overseasCopy":"For assistance in overseas locations, just make a direct toll-free phone call to any of the numbers below.",
+      "asia":"<br/><br/>*available only from phones with IDD facility.<br/><br/>For Brunei, India and Pakistan, please follow these steps:<ul><li>Dial the Singapore DIRECT toll-free number of the country you are in (eg. 800 065 for Brunei).</li><li>At the voice prompt, press \"2\" for International Toll-Free Service.</li><li>Enter our 24-Hour CitiPhone Banking number (6225 5225).</li><li>Your call will be connected.</li></ul>",
+      "northAmerica":"",
+      "europe":"",
+      "southAmerica":""
+   },
+   "phoneNumbers": {
+      "Australia": "1800 141 073",
+      "Brunei*": "800 065",
+      "China": "10800 650 0102",
+      "Guam": "1877 703 7112",
+      "Hong Kong": "800 90 0181",
+      "India*": "000 6517",
+      "Indonesia": "001 803 65 7494",
+      "Japan": "00531 65 0022",
+      "Malaysia": "1800 80 1052",
+      "New Zealand": "0800 44 3197",
+      "Pakistan*":"00800 11065",
+      "Philippines": "1800 1651 0581",
+      "South Korea": "00308 65 11334",
+      "Taiwan": "00801 65 1455",
+      "Thailand": "001 800 65 6322",
+      "UAE": "800 065 0535",
+      "Canada": "1877 432 8161",
+      "USA": "1877 228 5936",
+      "Belgium": "0800 77 565",
+      "Finland": "08001 165 12",
+      "France": "0800 91 5921",
+      "Germany": "0800 180 2351",
+      "Hungary": "06 800 14052",
+      "Italy": "800 87 7028",
+      "Ireland": "1800 556 591",
+      "Luxembourg": "8002 9372",
+      "Netherland": "0800 023 2068",
+      "Norway": "800 13 223",
+      "Sweden": "020 796 112",
+      "Switzerland": "0800 83 4736",
+      "Turkey": "0090 216 524 7474",
+      "UK": "0800 169 9193",
+      "Chile": "123 0020 9003"
+   },
+   "termsandconditions":{
+      "header":"Terms &<br/>Conditions",
+      "memberPrivilegesTitle": "Member Privilege",      
+      "journeysTitle":"TRAVEL <br/> ULTIMATE HORIZONS",   
+      "tastemakersTitle":"DINING & LIFESTYLE <br/> ULTIMATE INDULGENCE",
+      "balanceTitle":"HEALTH & WELLNESS <br/> ULTIMATE BALANCE",
+      "delightsTitle":"BESPOKE OFFERS <br/> ULTIMATE DELIGHTS",
+      "momentsTitle":"EXPERIENCES <br/> ULTIMATE MOMENTS",       
+      "importantNoteTitle":"Important Note",
+      "importantNoteCopy":"For Citi ULTIMA Cardmembers Agreement, Information Sheet, ABS Credit Card Guide and other important disclosures, please <a href='#/important-information?icid=SGULUY8ENULTICAVC45' target='_blank'>click here</a>.</br></br>We have the right to add, modify, or delete any Citi ULTIMA Card benefit, service, or feature at our discretion, at any time.<br/><br/>Entitlements will be tracked on calendar year for bookings and utilization of benefits.<br/><br/>Citibank is not an agent of any merchant and assumes no liability or responsibility for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by any merchant, site or service provider or other authorised agent. Notwithstanding anything herein, Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by any merchant, site or service provider or other authorised agent, and you should seek redress from and direct any complaints or comments, in respect of such goods and services, to them."
+   },
+   "termsandconditionsMemberPrivileges": {
+      "condition1Title":"Welcome and Renewal Gift Terms and Conditions",
+      "condition1SubTitle":"",
+      "condition1Copy":"<a href='https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/pdfs/Citi_ULTIMA_Cardmember_Agreement.pdf' target='_blank'> www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/pdfs/Citi_ULTIMA_Cardmember_Agreement.pdf </a>",
+      "condition2Type":"mastercard",
+      "condition3Title":"Accelerated Points",
+      "condition3SubTitle":"",
+      "condition3Copy":"<a href='https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/pdfs/Citi_ULTIMA_Cardmember_Agreement.pdf' target='_blank'>https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/pdfs/Citi_ULTIMA_Cardmember_Agreement.pdf</a>",
+      "condition4Title":"Refer and be Rewarded",
+      "condition4SubTitle":"",
+      "condition4Copy":"<a href='/pdf/0624/Citi-ULTIMA-card-referral-program-tnc.pdf' target='_blank' >Citi ULTIMA Referral Program Terms and Conditions (valid from 6 February 2025 to 31 July 2025)</a>"
+   },
+   "termsandconditionsJourneys": {
+      "condition1Title":"AIRFARE PRIVILEGE",
+      "condition1SubTitle":"Definitions",
+      "condition1Copy":"See the offer <a href='#/horizons?icid=SGULUY8ENULTICAVC24' target='_blank'>here</a>.<br/><ul><li>Open tickets refers to travel ticket with no fixed travel dates or times, but a fixed validity period.</li><li>Open-jaw refers to flights to one city with return from another eligible city (e.g. A to B, C to A. If B and C are neighboring airports in the same city, this will not be seen as open-jaw tickets.</li><li>Open returns refer to flexible tickets as you do not need to specify the exact time and date you want to return on.</li><li>Layover is short stop or break on one single journey/itinerary/trip while onto your final destination. Any stop(s) between your origin city and your final destination city and is less than 24 hours for international itinerary or less than four hours for domestic itinerary is a layover.</li><li>Stop-over refers to long stop and is more than 24 hours. An example is going from Singapore to Osaka and staying for multiple days in Tokyo, the connecting city, either en-route to or from Osaka.</li><li>Circle trips refers to air-travel in which the point of origin is also the ultimate destination but it involves more than one stopovers. For example: A to B, B to C, C to D and D to A.</li><li>A connection refers to changing plans in an airport, most frequently an airline hub. Any layover of less than 24 hours is considered a connection.</li><li>Non-restricted fares refer to full-fare tickets and such tickets are not cheapest fare and usually fully refundable with complete flexibility.</li><li>A codeshare flight refers to a flight marketed and ticketed by one airline (Marketing Carrier) but operated another airline (Operating Carrier), typically because the marketing airline does not directly service a certain flight route. For example, a flight marketed and ticketed by Japan Airlines but operated by American Airline is a codeshare flight.</li></ul><br/>I General Conditions<br/><ol><li>Flight bookings can be made up to 9 months in advance for the outbound travel date. For example, booking made on 1&nbsp;January&nbsp;2024 for outbound travel on 30&nbsp;September&nbsp;2024.</li><li>Offer is valid for Citi ULTIMA main Cardholders only.</li><li>To qualify for the complimentary companion ticket:<br/>The paid ticket must be purchased on non-restricted fare on a participating airline and charged to a valid Citi ULTIMA Card<br/>All travel must start and end in city where the card is issued<br/>All travel must be ticketed in the country where card is issued<br/>The Cardholder who purchases the companion ticket(s) must be one of the travellers<br/>The companion using the complimentary ticket must travel with and have the same itinerary as the cardholder with the paid ticket purchased ticket and companion ticket must be issued at the same time<br/>The complimentary companion ticket is based on lowest available fare booking class<br/>Only one companion ticket can be redeemed in the same itinerary<br/>Only one stop-over is allowed in the itinerary.<br/>One stop-over and open jaw are not allowed concurrently.</li><li>4. Open tickets, open returns, circle trips, and round the world trips are not permitted.</li><li>Complimentary companion ticket and discount are only applicable to airfares and does not include taxes, surcharges or any other fees.</li><li>Discounted airfares are applicable for all booking class for business and first class, subject to availability.</li></ol><br/>II. Reservations<br/><ol><li>1. Minimum 72 hour advance reservation is required. Reservations, ticketing and departures less than 72 hours are not permitted.</li><li>Bookings must be done through a Citi ULTIMA Lifestyle Relationship Manager.</li></ol><br/>III. Charges and Cancellation<br/><ol><li>At the time of booking, all applicable taxes, surcharges and fees for paid and complimentary companion tickets will be charged to the Cardholder's Citi ULTIMA Card.</li><li>Ticket issuance fee per ticket is US$80 and is non-refundable. Ticket issuance fee for paid ticket and complimentary companion ticket will be borne by cardholder.</li><li>Itinerary change and refund are subjected to the terms and conditions of the refund, cancellation & itinerary change policies of the airlines.</li><li>Once paid and complimentary companion tickets are issued, any deviations or changes in routing by cardholder will be at the cardholders expense. This includes:<br/>Re-issuance fee of US$80 per ticket, amendment and cancellation fee, taxes and surcharges and ticket price difference of both paid and companion tickets).</li></ol><br/>IV. Miscellaneous<br/><ol><li>Companion tickets are non-transferable and non-endorsable.</li><li>Tickets are not interchangeable for travel on other airlines. Any travel on non-participating airlines must be ticketed and paid for separately. Codeshare flights do not apply unless otherwise stated. Codes share flights are allowed only on Lufthansa and Japan Airlines for one leg per outbound and inbound flight when alternative routes are not available.</li><li>Privileges cannot be combined or applied with other promotions, discounts, offers or internet fares.</li><li>Published rates for participating airlines is applicable for guests if they want to book via Citi ULTIMA Lifestyle Relationship Manager and charged to a valid Citi ULTIMA Card.</li><li>The bank and participating airlines reserve the right to vary the terms and conditions of this offer.</li></ol>",
+      "condition2Title":"AIRPORT TRAVEL ASSIST PRIVILEGES",
+      "condition2Table": "airports",
+      "condition2SubTitle":"",
+      "condition2Copy":"LUXURY AIRPORT TRANSFER SERVICE<br/>See the offer <a href='#/horizons?icid=SGULUY8ENULTICAVC25' target='_blank'>here</a>.<br/>I General Conditions<br/><ol><li>Valid for Citi ULTIMA main cardmembers only.</li><li>Each Citi ULTIMA Cardmember is entitled to complimentary one-way airport limousine services per flight itinerary.</li><li>An itinerary is defined as either a one way or return to and from the destination country from the Cardmemberâ€™s country of issuance. This is inclusive of itineraries with more than 1 stopover eg. Singapore Cardmember travelling to Thailand, from Thailand to Taiwan and Taiwan back to Singapore will be able to enjoy the limo service in Thailand.</li><li>Eligible cardmembers must purchase business class and above airfares entirely on the ULTIMA card and be travelling with full-fledged carriers. This service is not available for itineraries with travel on budget carriers. Cardmembers who travel on budget carriers will not be eligible to this benefit. For the full list of budget carriers, please refer to this link: <a href='https://www2023.icao.int/sustainability/Documents/LCC-List.pdf' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>www2023.icao.int/sustainability/Documents/LCC-List.pdf</a></li><li>Luxury airport transfer services have a complimentary transfer allowance, which is based on driven kilometers in each city. Any excess charges beyond the complimentary transfer allowance will be advised to Cardmember upon confirmation of the booking. Cardmember will be charged for excess charge per kilometer. </li><li> Additional charges for extra-stops, cancellation/amendment fees and waiting time charges will apply and are to be borne by Cardmember. All charges must be made on Citibank ULTIMA card.</li><li>Luxury airport transfer imposes limits on the number of passengers per car and/or the number of luggage per passenger. This service is limited to a maximum of 2 large suitcases and 2 passengers per car. </li></ol><br/>II Reservations<br/><ol><li>Bookings must be made through a Citi ULTIMA Lifestyle Relationship Manager or where available, the Citi ULTIMA Concierge.</li><li>All bookings is subject to availability.</li><li>Please provide number of passenger and luggage during booking.</li><li>Booking for the services must be made at least 72 hours prior to commencement of travel. The bank reserves the right to reject booking of services if less than 72 hours before commencement of travel.</li></ol><br/>III Cancellation and Charges<br/><ol><li>There is no charge for any cancellations made more than 48 hours in advance of the service and capped entitlement will not be considered utilized.</li><li>For any cancellations made within 48 hours prior to the scheduled service, there is a 100% charge equivalent to full invoice.</li><li>There is no charge for any amendments to the services made more than 48 hours in advance of the service. For any amendment made less than 48 hours in advance of the service, this will be considered as a cancellation and a new booking. Hence, one redemption will be considered utilized. Cardholder will need to pay the additional fees that is required for the new booking.</li><li>New bookings will be subjected to the standard Terms and Conditions, additional fees that is required will be applicable.</li><li>The bank and participating partner will review each case to determine for any exceptional circumstances.</li><li>Additional charges will apply for additional luggage, a larger vehicle or child or infant car seat if required. Please provide number of passenger, luggage and number of infant seats required during booking. Please note that provision of infant seats are mandatory in some destinations.</li><li>The following fees and charges will be levied by the limousine service provider onto the Primary Cardmember's Citi ULTIMA card, should these scenarios occur:<ol style='list-style-type:lower-alpha;'><li>Cancellation: Any cancellation or amendment must be done at least 24 hours in advance of the arranged Airport Transfer. Any cancellation or amendment submitted within the 24 hours prior to the arranged airport Transfer will be treated as a deduction of one Qualifying Entitlement. Please contact Concierge via the Citi ULTIMA concierge (6334-7598) for cancellations or amendment.</li><li>Amendment: An amendment fee of USD10.00 and/or any change fee imposed will be charged per each amendment made 24 hours or less if the service provider is able to fulfil assignment on the new date. There is no charge for amendments made 24 hours prior to the pickup time.</li><li>No Show: A 'no show' is defined as the Cardmember failing to show up for an arranged Airport Transfer. A cancellation fee of 100% based on estimated charges will be imposed for no show. The grace waiting time for any Airport Transfer shall be limited to the following in (i) & (ii) beyond which, it will be treated as a 'no show':<ul style='list-style:none;'><li>(i) Airport Arrival pickups: 60-minute grace waiting time from actual flight landing time</li><li>(ii) All other pickups/Airport Departure: 15-minute grace waiting time</li></ul><li>No-Show by Driver: If there is a no-show by driver, customer has to call Concierge and Concierge shall arrange with the service provider for an immediate rescue alternative from 1-hour control call. If a rescue limousine is unavailable at point of No-Show, there will be no charge imposed on client.</li></li></ol></li><li>The service provider will release the driver upon the end of the waiting period if passenger is not on board by the 60th minute for Airport Arrival pickups and 15th minute for All other pickups/Airport Departure. </li></ol><br/>IV Miscellaneous<br/><ol><li>Complimentary service is not exchangeable for cash or in kind and not applicable in conjunction with any other promotions, discounts or privileges.</li><li>The bank and participating partner reserve the right to vary the terms and conditions of this offer.</li><li>It is the responsibility of the Cardholder travelling to allow enough time to get to the airport and check-in before the check-in counter closes. Local traffic conditions and unforeseen circumstances can affect travel time, and the cardholder accepts those risks when using the airport transfer service.</li><li>Cardholder acknowledges that luxury airport service is provided by third party suppliers, and not by the bank. The vehicle used shall be an executive-type sedan. Vehicle make and model are subject to supplierâ€™s fleet availability, and the bank does not guarantee a specific vehicle model. The bank is not responsible for the acts or omissions of such suppliers, or for any deficiency in the facilities and services offered. In particular, the bank has no liability for loss, personal injury, or death incurred during the use of such facilities and services unless:<br/>such loss, personal injury or death is / are caused solely by the bank's negligence; or<br/>such liability cannot be excluded under law (in which case it is limited to the maximum extent permitted under the law). In some countries, services may come with a non-excludable guarantee or warranty that they will be provided with due care and skill. The nature and application of these guarantees or warranties will depend on the relevant country.</li></ol><br/>AIRPORT MEET & GREET SERVICE<br/>I General Conditions<br/><ol><li>Valid for Citi ULTIMA main cardholder (â€œCardholderâ€) only.</li><li>All charges must be made on a Citi ULTIMA card.</li><li>Each Cardholder is entitled to one complimentary Meet & Assist Service per itinerary.</li><li>An itinerary is defined as either a one way or return to and fro the destination country from the cardholderâ€™s country of issuance. This is inclusive of itineraries with more than 1 stopover eg. Singapore cardholder travelling to Thailand, from Thailand to Taiwan and Taiwan back to Singapore will be able to enjoy the Meet and Assist service in Thailand.</li><li>The service is available for Cardholders who are travelling on business class and above for full fledge carriers only. Cardholders who travel on budget carriers will not be eligible to this benefit. For the full list of budget carriers, please refer to this link: <a href='https://www2023.icao.int/sustainability/Documents/LCC-List.pdf' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>www2023.icao.int/sustainability/Documents/LCC-List.pdf</a></li><li>The complimentary airport Meet and Assist Service is applicable for a single traveler. Cardholder will be charged for additional travelers.<br/>In the event Cardholder comes in a group, Cardholder will have to break away from their group for the service. If Cardholder wish to continue the services with their group, the group will be considered as additional passengers and subjected to additional charges.<br/><br/>Please note that in the event additional passengers are presented to the agent without prior notification of travel, Cardholder will be charged accordingly after the service is delivered.<br/><ul><li>In the event Cardholder comes in a group, Cardholder will have to break away from their group for the service. If Cardholder wish to continue the services with their group, the group will be considered as additional passengers and subjected to additional charges.</li><li>Please note that in the event additional passengers are presented to the agent without prior notification of travel, Cardholder will be charged accordingly after the service is delivered.</li><li>â€‹â€‹In the event that Cardholder comes in a group or arrive with additional passengers without prior booking, Cardholder must sign â€˜the change of service formâ€™ which indicating the agreement for additional charge. If Cardholder refuse to sign the change of service form, the participating local agent reserves the right to reject servicing the additional passengers.â€‹</li></ul></li></ol><br/>II Reservations<br/><ol><li>All booking is subject to availability.</li><li>Booking for the services must be made at least 72 hours prior to commencement of travel. Citibank reserves the right to reject booking of services if less than 72 hours before commencement of travel.</li></ol><br/>III Cancellation and Charges<br/><ol><li>There is no charge for any cancellations made more than 48 hours in advance of the service and capped entitlement will not be considered utilized.</li><li>For any cancellations made within 48 hours prior to the scheduled service, there is a 100% charge equivalent to full invoice and capped entitlement will be considered utilized.</li><li>There is no charge for any amendments to the services made more than 48 hours in advance of the service. For any amendment made less than 48 hours in advance of the service, there will be a change fee imposed, which varies depending on the airport.</li></ol><br/>IV Miscellaneous<br/><ol><li>Complimentary service is not exchangeable for cash or in kind and not applicable in conjunction with any other promotions, discounts or privileges.</li><li>Citibank and participating partner reserve the right to vary the terms and conditions of this offer.</li><li>Cardholder acknowledges that luxury airport service is provided by third party suppliers, and not by Citibank. Citibank is not responsible for the acts or omissions of such suppliers, or for any deficiency in the facilities and services offered. In particular, Citibank has no liability for loss, personal injury, or death incurred during the use of such facilities and services unless:<br/>a. such loss, personal injury or death is / are caused solely by Citibank's negligence; or<br/>b. such liability cannot be excluded under law (in which case it is limited to the maximum extent permitted under the law). In some countries, services may come with a non-excludable guarantee or warranty that they will be provided with due care and skill. The nature and application of these guarantees or warranties will depend on the relevant country</li><li>Other terms and conditions apply. Please refer to <a href='https://citiconcierge.yqnowgroup.com/terms' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>https://citiconcierge.yqnowgroup.com/terms</a> for details.</li></ol><br/>The complimentary services are valid at participating airports in Asia Pacific only (as shown below)",
+      "condition3Title":"APPLICATION PROCESS FOR APEC BUSINESS TRAVEL CARD",
+      "condition3SubTitle":"",
+      "condition3Copy":"See the offer <a href='#/horizons?icid=SGULUY8ENULTICAVC26' target='_blank'>here</a>.<br/>I Eligibility<br/><ul><li>ULTIMA Cardholders who have successfully applied and paid for the APEC Business Travel Card and who have made a qualifying spend in the 365 days preceding the cardholder's application for reimbursement under this promotion, will be reimbursed the APEC Business Travel Card application fee.</li><li>All applicants must be Singapore Citizens with a valid Singapore passport AND belong to one of the following groups:<ul><li>Bona fide business persons (i.e. those who represent an economically-active business entity).</li><li>Members of professional bodies (e.g. doctors, lawyers, artists).</li><li>Public officers from Ministries, Government departments, economic agencies and statutory boards who need to travel in their official capacity.</li></ul></li></ul><br/>II Participating Countries<br/><ul><li>Australia, Brunei Darussalam, Chile, China, Taipei, Hong Kong, Indonesia, Japan, Republic of Korea, Malaysia, Mexico, New Zealand, Papua New Guinea, Peru, Philippines, Singapore, Thailand, Vietnam. Also includes selected major airports in the United States, Canada and Russian Federation. Visit www.ica.gov.sg for more information.</li></ul><br/>III E-Application Process<ul><li>Applicants may apply for the ABTC with their SingPass IDs on www.ica.gov.sg.</li><li>Click on 'eServices and Forms' on the top tab, select 'APEC Business Travel Card' and apply online via eABTC.</li><li>Applicant to pay the application fee of S$100 online with Citi ULTIMA Card (Main card account only). Fee will be reimbursed back into the same Citi ULTIMA Card (Main card account only) within 8 weeks from the submission of required documentation to the ULTIMA support email at ultima.sg@citi.com - see section 4 below.</li></ul><br/>IV Documents Required for E-Application Process<ul><li>Citi ULTIMA Card (for online payment)</li><li>Digital photo image file of applicant with the following specifications:<ul><li>JPEG format ('jpg' extension)</li><li>File size should be no more than 60kbytes</li><li>Preferred dimension of 400 x 514 pixels</li></ul></li><li>Scanned signature image file</li><li>Supporting document (to prove eligibility), where applicable</li><li>SingPass ID</li><li>Valid Singapore Passport</li></ul><br/>V Processing<ul><li>Required documents to be emailed to the ULTIMA support email at ultima.sg@citi.com for reimbursement:<br/>Signed acknowledgment form (overleaf)<br/>Image of official final APEC card from ICA ABTC</li><li>The fee will be reimbursed back into the Citi ULTIMA Card used to make payment within 4 weeks from their submission of the above documents to the ULTIMA support email at ultima.sg@citi.com.</li><li>ICA may take up to 3 months to approve the application. Applicant will receive an official email once their application is approved. The card will be mailed to the successful applicant by registered post when it is ready. Some cases may require a longer processing time, due to the pre-clearance from the participating APEC economies. Note: No counter applications will be accepted.</li></ul><br/>VI Terms & Conditions<ul><li>\"ABTC\" refers to the APEC Business Travel Card.</li><li>\"Qualifying Spend\" means a charge made which does not arise from any Equal Payment Plan purchases, refunded, disputed, unauthorised or fraudulent retail purchases, Quick Cash transactions and monthly transactions, cash advance, balance transfers, annual card membership fees, funds transfers using the Eligible Card as source of funds (for example, payments via Citibank Online or via any other channel or agent (such as a third party agent for payment of bills) whether for bill payments or otherwise), interest, goods and services taxes, late payment fees and any other form of service / miscellaneous fees.</li><li>\"Eligible Cardholder\" means a main cardholder of a Citi ULTIMA Card who:<ul><li>Is a Singapore Citizen;</li><li>Has a valid Singapore passport; and</li><li>Belongs to one of the following groups:</li></ul>Bona fide business persons (i.e. those who represent an economically-active business entity);<br/>Members of professional bodies (e.g. doctors, lawyers, artists); or<br/>Public officers from Ministries, Government departments, economic agencies and statutory boards who need to travel in their official capacity.</li><li>An Eligible Cardholder who (a) successfully applies for an ABTC in his name; (b) charges the ABTC application fee of S$100 to his Citi ULTIMA Card; (c) submits the documents referred to in clause 5 below to Citi; and (d) has made a Qualifying Spend of a minimum of S$200,000 (or its equivalent in foreign currency) in the 365 days immediately preceding the submission of the documents referred to in clause 5 below to Citi, will be reimbursed his full ABTC application fee by Citi(the \"Privilege\").</li><li>To documents that an Eligible Cardholder is required to submit to Citi to receive the Privilege are (a) the Citi ULTIMA Card Privilege - Complimentary APEC Business Travel Card Acknowledgement Form and (b) an image of his approved ABTC card from the Immigration Checkpoints Authority of Singapore. Documents are to be submitted via email to ultima.sg@citi.com.</li><li>An Eligible Cardholder who complies with clauses 4 and 5 above will receive the Privilege within 8 weeks from the submission of all required documents. The Privilege will be credited into the Eligible Cardholder's Citi ULTIMA Card account. The Eligible Cardholder must have a valid Citi ULTIMA Card as a main cardholder to receive the Privilege.</li><li>The Eligible Cardholder's application for the ABTC is subject to terms and conditions of the ABTC at www.ica.gov.sg. Citi makes no promise, representation or warranty that the Eligible Cardholder's application for the ABTC will be successful.</li><li>The Eligible Cardholder agrees that he applies for the ABTC at his own accord and he will not hold Citi liable or responsible in any way (whether to the Eligible Cardholder or any other party) for an unsuccessful application for the ABTC.</li><li>The use of the ABTC may be subject to additional terms and conditions of APEC.</li><li>Citi reserves the right, at its reasonable discretion, not to accord this Privilege, or to terminate or amend this Privilege or vary, delete or add to any of these terms and conditions from time to time without notice or assigning any reason thereof.</li><li>The Privilege shall not be exchangeable for cash, other forms of credit or gift in kind.</li><li>Citi reserves the right to substitute the Privilege with any other gift, benefit or item of equal or similar value selected by Citi in its absolute discretion.</li><li>Citi is not an agent of the merchant and assumes no liability or responsibility for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by any participating merchant, site or service provider or other authorized agent. Notwithstanding anything herein, Citi shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by any participating merchant, site or service provider or other authorized agent, and eligible customer should seek redress from and direct any complaints or comments, in respect of such goods and services, to them.</li><li>Citi's decision on all matters relating to this promotion will be at its sole and absolute discretion and will be final, conclusive and binding on all participants. In the event of any inconsistency between these terms and conditions and any brochure, marketing or promotional material relating to or in connection with this privilege, these terms and conditions will prevail.</li><li>All references to Citi shall, where the context requires, also include the affiliates, employees, directors, officers and agents of Citi.</li><li>Citi refers to Citibank Singapore Ltd</li></ul>",
+      
+      "condition5Type":"mastercard",
+      "condition5Title":"COMPLIMENTARY HOTEL NIGHT PROGRAM",
+      "condition5SubTitle":"",
+      "condition5Copy":"See the offer <a href='#/horizons?icid=SGULUY8ENULTICAVC28' target='_blank'>here</a>.<br/>I. General Conditions<ul><li>Program is valid for hotel bookings with stays to be completed within 9 months from the booking date. For example, stay booked on 1&nbsp;January&nbsp;2024 must have a check out date no later than 30&nbsp;September&nbsp;2024.</li><li>Offer applies to primary Citi ULTIMA main cardholders (\"Cardholders\") only.</li><li>A maximum of two complimentary nights are allowed per Cardholder per outward bound trip from the country where the Citi ULTIMA Card is issued, regardless of the number of cities visited or hotels stayed at in that same outward bound trip.</li><li>Accordingly, for the avoidance of doubt, no further complimentary nights will be granted for different cities visited, or for different hotels stayed at, in the same outward bound trip even if there is a time lapse between the visits or stays. For consecutive or near consecutive bookings utilizing this privilege, the Cardmember must provide official flight itineraries under their own name confirming: (i) a return flight to Singapore from the preceding trip, and (ii) a new outbound flight departing from Singapore for the subsequent trip. Stays where the Cardmember does not return to Singapore between bookings are deemed back-to-back and are strictly ineligible. If the required travel cannot be verified, or if the underlying flight bookings are cancelled before the stay commences, the full commercial rate of the complimentary nights will be charged to the Cardmember's account</li></ul>To qualify for the complimentary night stay:<ul><li>A minimum of 2 consecutive nights stay is required to enjoy the complimentary 2nd night.</li><li>The complimentary night benefit is only valid for booking at hotels that are NOT located in the city where the Citi ULTIMA Card is issued.</li><li>The Citi ULTIMA Card used to book the reservation must be presented at check-in, and for full payment upon check out.</li><li>The Cardholder who booked the stays must be one of the staying guests.</li><li>Complimentary night is non-transferable and not valid for stays at another hotel.</li><li>Complimentary night must be utilized during the same stay as the purchased nights.</li><li>Purchased and complimentary nights must be of the same room types.</li><li>Only one active booking for any specific date is allowed for the same cardholder.</li><li>For the avoidance of doubt, the complimentary night cannot be combined with another \"stay a minimum night and get free night\" type of offer run by the hotels directly</li><li>There are no cash credits for any unused free nights if the guest checks out early.</li><li>Rates are per room, per night, based on single/double occupancy and availability at time of reservation and do not include additional per room, per night surcharges that may be imposed or applicable state/local taxes.</li><li>Complimentary night has no refund value.</li><li>All room rates will be based on Best Available Rates and cannot be combined with any other offers or packages.</li><li>All rates and availability for hotels are provided by the bank's designated travel platform.</li><li>The cost of the complimentary one-night stay will be computed as the average nightly rate for the entire stay.</li><li>Complimentary night is only applicable to room rates and does not include taxes, surcharges or any other fees.</li></ul><br/>II. Reservations<ul><li>Booking, amendments and cancellations must be done through a Citi ULTIMA Lifestyle Relationship Manager, or where available, the Citi ULTIMA Concierge.</li><li>To be eligible for the complimentary 2nd night benefit, booking must be completed at least 3 days (72 hours) prior to the check-in date by 3pm local hotel time. For example, to check-in on May 8th, the booking must be completed on or before May 5th by 3pm local hotel time. Bookings made less than 3 days (72 hours) prior to the check-in date by 3pm local hotel time are not eligible for the benefit.</li><li>Walk-in guest(s) without prior reservations will not be granted the complimentary night's stay benefit.</li><li>Reservations are subject to room availability on the designated travel platform used by the bank at the time that the reservation is confirmed and not at the time of quotation. Blackout dates may apply. Cardholder's preferred dates cannot be guaranteed.</li><li>If more than two bookings are made per outward-bound trip, the first two bookings based on check-in date will be eligible for the free night benefit, unless otherwise specified.</li></ul><br/>Room Upgrade Terms and Conditions<ul><li>Room upgrades are based on a one-category room upgrade and are subject to availability at time of check-in.</li><li>Room categories are determined by the hotel and are subject to change.</li><li>Upgrades cannot be guaranteed prior to arrival.</li><li>Certain room categories may not be eligible for upgrade.</li><li>Upgrades have no monetary value.</li><li>The Hotel reserves the right to charge additional fees for room upgrades higher than one category above reserved room type.</li></ul><br/>III. Cancellation and Charges<ul><li>Cancellations and amendments must be made through a Citi ULTIMA Lifestyle Relationship Manager, or where available, the Citi ULTIMA Concierge.</li><li>Cancellation and amendment fees may apply subject to the cancellation and amendment policies of the respective Participating Hotels.</li><li>Cancellation and no show fees will be charged to the Citi ULTIMA Card account.</li><li>Once reservations are confirmed, all associated cost (amendment fee, cancellation fee, taxes and surcharges and room price difference) will be borne by Cardholder.</li><li>Any change or modification will be considered a new booking and subject to current rates and availability.</li><li>Cancellation and amendments must be made at least 7 calendar days before date of arrival by calling a Citi ULTIMA Lifestyle Relationship Manager, or where available, the Citi ULTIMA Concierge. Where the Participating Hotels has a different cancellation or amendment policy requiring more than 7 calendar days notification, the request is subject to the policy of the Participating Hotel.</li></ul><br/>IV. Miscellaneous<ul><li>Complimentary one night stay is based on accommodation for maximum occupancy per room type and is exclusive of all applicable tax and service charges for such accommodation. Applicable taxes, service charges, meals and all other incidentals will be charged to Cardholder directly by the respective Participating Hotel.</li><li>Complimentary night is not exchangeable for cash or in kind and not applicable in conjunction with any other promotions, discounts, internet room rates or privileges.</li><li>The bank and Participating Hotels reserve the right to amend and exercise the final interpretation of the terms and conditions of this offer.</li></ul>",
+     
+      "condition6Type":"visa",
+      "condition6Title":"COMPLIMENTARY HOTEL NIGHT PROGRAM",
+      "condition6SubTitle":"",
+      "condition6Copy":"See the offer <a href='#/horizons?icid=SGULUY8ENULTICAVC28' target='_blank'>here</a>.<br/>I. General Conditions<ul><li>Program is valid for hotel bookings with stays to be completed within 9 months from the booking date. For example, stay booked on 1&nbsp;January&nbsp;2024 must have a check out date no later than 30&nbsp;September&nbsp;2024.</li><li>Offer applies to primary Citi ULTIMA main cardholders (\"Cardholders\") only.</li><li>Up to one complimentary night is allowed per Cardholder per room per booking</li><li>A maximum of two complimentary nights are allowed per Cardholder per outward bound trip from the country where the Citi ULTIMA Card is issued, regardless of the number of cities visited or hotels stayed at in that same outward bound trip.</li><li>Accordingly, for the avoidance of doubt, no further complimentary nights will be granted for different cities visited, or for different hotels stayed at, in the same outward bound trip even if there is a time lapse between the visits or stays.</li></ul>To qualify for the complimentary night stay:<ul><li>A minimum of 2 consecutive nights stay is required to enjoy the complimentary 2nd night.</li><li>The complimentary night benefit is only valid for booking at hotels that are NOT located in the city where the Citi ULTIMA Card is issued.</li><li>The Citi ULTIMA Card used to book the reservation must be presented at check-in, and for full payment upon check out.</li><li>The Cardholder who booked the stays must be one of the staying guests.</li><li>Complimentary night is non-transferable and not valid for stays at another hotel.</li><li>Complimentary night must be utilized during the same stay as the purchased nights.</li><li>Purchased and complimentary nights must be of the same room types.</li><li>Only one active booking for any specific date is allowed for the same cardholder.</li><li>For the avoidance of doubt, the complimentary night cannot be combined with another \"stay a minimum night and get free night\" type of offer run by the hotels directly</li><li>There are no cash credits for any unused free nights if the guest checks out early.</li><li>Rates are per room, per night, based on single/double occupancy and availability at time of reservation and do not include additional per room, per night surcharges that may be imposed or applicable state/local taxes.</li><li>Complimentary night has no refund value.</li><li>All room rates will be based on Best Available Rates and cannot be combined with any other offers or packages.</li><li>All rates and availability for hotels are provided by the bank's designated travel platform.</li><li>The cost of the complimentary one-night stay will be computed as the average nightly rate for the entire stay.</li><li>Complimentary night is only applicable to room rates and does not include taxes, surcharges or any other fees.</li></ul><br/>II. Reservations<ul><li>Booking, amendments and cancellations must be done through a Citi ULTIMA Lifestyle Relationship Manager, or where available, the Citi ULTIMA Concierge.</li><li>To be eligible for the complimentary 2nd night benefit, booking must be completed at least 3 days (72 hours) prior to the check-in date by 3pm local hotel time. For example, to check-in on May 8th, the booking must be completed on or before May 5th by 3pm local hotel time. Bookings made less than 3 days (72 hours) prior to the check-in date by 3pm local hotel time are not eligible for the benefit.</li><li>Walk-in guest(s) without prior reservations will not be granted the complimentary night's stay benefit.</li><li>Reservations are subject to room availability on the designated travel platform used by the bank at the time that the reservation is confirmed and not at the time of quotation. Blackout dates may apply. Cardholder's preferred dates cannot be guaranteed.</li><li>If more than two bookings are made per outward-bound trip, the first two bookings based on check-in date will be eligible for the free night benefit, unless otherwise specified.</li></ul><br/>Room Upgrade Terms and Conditions<ul><li>Room upgrades are based on a one-category room upgrade and are subject to availability at time of check-in.</li><li>Room categories are determined by the hotel and are subject to change.</li><li>Upgrades cannot be guaranteed prior to arrival.</li><li>Certain room categories may not be eligible for upgrade.</li><li>Upgrades have no monetary value.</li><li>The Hotel reserves the right to charge additional fees for room upgrades higher than one category above reserved room type.</li></ul><br/>III. Cancellation and Charges<ul><li>Cancellations and amendments must be made through a Citi ULTIMA Lifestyle Relationship Manager, or where available, the Citi ULTIMA Concierge.</li><li>Cancellation and amendment fees may apply subject to the cancellation and amendment policies of the respective Participating Hotels.</li><li>Cancellation and no show fees will be charged to the Citi ULTIMA Card account.</li><li>Once reservations are confirmed, all associated cost (amendment fee, cancellation fee, taxes and surcharges and room price difference) will be borne by Cardholder.</li><li>Any change or modification will be considered a new booking and subject to current rates and availability.</li><li>Cancellation and amendments must be made at least 7 calendar days before date of arrival by calling a Citi ULTIMA Lifestyle Relationship Manager, or where available, the Citi ULTIMA Concierge. Where the Participating Hotels has a different cancellation or amendment policy requiring more than 7 calendar days notification, the request is subject to the policy of the Participating Hotel.</li></ul><br/>IV. Miscellaneous<ul><li>Complimentary one night stay is based on accommodation for maximum occupancy per room type and is exclusive of all applicable tax and service charges for such accommodation. Applicable taxes, service charges, meals and all other incidentals will be charged to Cardholder directly by the respective Participating Hotel.</li><li>Complimentary night is not exchangeable for cash or in kind and not applicable in conjunction with any other promotions, discounts, internet room rates or privileges.</li><li>The bank and Participating Hotels reserve the right to amend and exercise the final interpretation of the terms and conditions of this offer.</li></ul>",
+     
+      "condition7Title":"PRIORITY PASS LOUNGE",
+      "condition7SubTitle":"",
+      "condition7Copy":"I General Conditions<ul><li>This offer is applicable complimentary to the primary Citi ULTIMA cardmember and up to two supplementary Citi ULTIMA cardmembers.</li><li>The Priority Pass Digital Membership is not transferable and is only valid up to its date of expiry.</li><li>The Priority Pass Digital Membership is not a payment card nor is it proof of credit-worthiness and attempts to use it as such could constitute fraud.</li><li>Admittance to the lounges is conditional upon presentation of a valid Priority Pass Digital Membership only.</li><li>Each accompanying guest will be charged at US$35 per person per visit (or at the prevailing rate) will be charged by Priority Pass to the Citi ULTIMA Card.</li><li>For the full list of valid airport lounges, please refer to www.prioritypass.com</li></ul><br/>II Miscellaneous<ul><li>Standard terms and conditions governing the use of Priority Pass Membership apply. Please visit www.prioritypass.com/en/conditions-of-use for more information.</li></ul>"         
+   },
+"termsandconditionsTastemakers": {																																										"condition1Title":"Gastronomic Dining Collection",
+      "condition1SubTitle":"",
+      "condition1Copy":"<b>Terms and Conditions</b><br/><ul><li>Gastronomic Dining Collection is valid for pre-booking via the link provided on the Citi ULTIMA website (the link leads to third party website) and with advance full payment made using a Citi ULTIMA Card.</li><li>Limited to one pair per cardmember, bookings will be on a first come first served basis and any payments made are non-refundable in the event of a cancellation by the Citi ULTIMA Cardmember.</li><li>For full terms and conditions relating to Citi ULTIMA Card, please visit <a href='#/terms-and-conditions?icid=SGULUY8ENULTICAVC35' target='_blank'>www.citibank.com.sg/ultimatnc</a> (for Visa) <a href='#/terms-and-conditions?icid=SGULUY8ENULTICAVC36' target='_blank'>www.citibank.com.sg/ultimamctnc</a> (for Mastercard)</li><li>Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties (including the featured restaurants)and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties (including the featured restaurants). Citibank shall also not be responsible if you are unable to make reservations under the Exclusive Chefâ€™s Menu offer as this depends on availability at these restaurants which is not within Citibankâ€™s control.</li><li>All disputes about the quality or performances of the products and/or services offered by third parties (including the featured restaurants) should be resolved directly with the relevant third party (including the featured restaurants).</li><li>Citibank and the respective merchants reserve the right to vary the terms and conditions governing the offers at any time.</li><li>Citibankâ€™s decision on all matters relating to this Promotion will be at its reasonable discretion and will be final and binding on all customers.</li><li>\"Citibank\" refers to Citibank Singapore Limited.</li></ul>",
+
+	   "condition2Title":"GARIBALDI",
+       "condition2SubTitle":"",
+       "condition2Copy":"<ul><li>The Promotion Period is from 1 November 2025 to 31 December 2026 (both dates inclusive).</li><li>Payment must be made with a Citi Credit Card or Citibank Debit Card to enjoy the promotion.</li><li>The Promotion is valid daily, excluding eve of Public Holidays (PHs) and PHs.</li><li>The Promotion applies to the total bill, excluding service charges and Goods and Services Tax (GST).</li><li>A complimentary welcome glass of Prosecco is offered to eligible Citi Cardmembers and each accompanying guest at their table who meets the legal drinking age. Cardmembers must notify restaurant staff to redeem this offer.</li><li>The Promotions are valid for use together, but not valid with other discounts, promotions, vouchers or membership privileges.</li><li>Citibank's and Garibaldiâ€™s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.<li>Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Garibaldi.</li><li>Citibank and Garibaldi reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.</li><li>\"Citibank\" refers to Citibank Singapore Limited. â€œGaribaldiâ€ refers to Garibaldi Pte. Ltd.</li></ul>",
+       
+       "condition3Title":"GRIGLIA OPEN FIRE ITALIAN KITCHEN",
+       "condition3SubTitle":"",
+       "condition3Copy":"<ul><li>Promotion period is from 1 September 2025 to 31 December 2026 (both dates inclusive).</li><li>Payment must be charged to a Citi Credit Card or Citibank Debit Card to enjoy the promotion.</li><li>Valid for dine-in only.</li><li>Promotion is not valid for promotional items, beverages, and takeaways.</li><li>Promotion is not valid for wine dinners and events (or more than 10 persons).</li><li>Promotion cannot be used in conjunction with any other offers, promotions, discounts, or vouchers, unless otherwise stated.</li><li>Promotion is not valid for use on eve of and on PHs, and on blackout dates under the restaurantâ€™s discretion (Motherâ€™s Day, Fatherâ€™s Day, F1, Christmas and etc.)</li><li>Citibank's and Food Concepts Groupâ€™s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.</li><li>Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Food Concepts Group.</li><li>Citibank and Food Concepts Group reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.</li><li>\"Citibank\" refers to Citibank Singapore Limited. \"Food Concepts Group\" and \"Griglia Open Fire Italian Kitchen\" refer to FOOD CONCEPTS GROUP SINGAPORE PTE. LTD.</li></ul>",
+
+       "condition4Title":"DIPTYQUE",
+       "condition4SubTitle":"",
+       "condition4Copy":"<ul><li>Promotion period is from 1 July 2025 to 30 June 2026 (both days inclusive), unless otherwise stated.</li><li>Payment must be charged using Citi Credit / Debit Card.</li><li>Not valid in conjunction with other ongoing discounts and promotions.</li><li>Brand exclusions and other T&CS apply.</li><li>Customer must meet the minimum spend criteria of the Promotion:</li><li>All Citi Cards: 15% off with min. S$350 spend</li><li>Citi ULTIMA, Citi Prestige, Citigold Debit Mastercard and Citigold Private Client World Elite Debit Mastercard: Receive an additional complimentary deluxe size sample</li><li>Customer must show the Citi Card to the staff at the payment counter when making payment to be entitled to the promotion.</li><li>This Promotion is not refundable or exchangeable for cash or other reward items from Citibank.</li><li>Citibank's decision on all matters relating to the Promotion will be determined in its reasonable discretion and is final and binding on all participants.</li><li>Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties.</li><li>Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the products and/or services shall be resolved directly with Diptyque.</li><li>Citibank and Diptyque reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time.</li><li>\"Citibank\" refers to Citibank Singapore Limited and \"Diptyque\" refers to LUXASIA Pte Ltd.</li></ul>"
+
+           
+   },
+   "termsandconditionsBalance": {
+      "condition1Type":"mastercard",
+      "condition1Title":"ULTIMA GOLF PRIVILEGES",
+      "condition1Table": "ultimagolf",
+      "condition1SubTitle":"",
+      "condition1Copy":"See the offer <a href='#/balance?icid=SGULUY8ENULTICAVC37' target='_blank'>here</a><br/>I. General Conditions<ul><p>1. Offer (â€œGolf Privilegeâ€) is valid for Citi ULTIMA Mastercard Card principal cardmembers (â€œCardmembersâ€) with cards issued in Singapore.</p><p>2. Cardmembers are entitled to the below, subject to availability of the participating golf club:<p style='padding-left:20px'>a. Complimentary green fees and buggy for Cardmember and one (1) guest at participating golf clubs <b>(â€œUnlimited Gamesâ€);</b></p><p style='padding-left:20px'>b. Complimentary green fees for Cardmember up to three (3) times per calendar year at participating golf clubs <b>(â€œYearly Gamesâ€);</b> and </p><p style='padding-left:20px'>c. Two (2) complimentary green fees for Cardmember at Sentosa Golf Club Singapore per quarter <b>(â€œQuarterly Gamesâ€)</b>.</p></li><p>3. For <b>Unlimited Games</b>, Cardmembers are entitled to complimentary green fees and buggy for principal Cardmember and one (1) guest. Terms and conditions are   applicable, including but not limited to the following: <p style='padding-left:20px'>a. Cardmembers are entitled to book and play for a maximum of five (5) times per calendar year in Japan. </p><p style='padding-left:20px'>b. If Mission Hills Shenzhen/Dongguan is a participating golf club at the time of booking, a minimum of one (1) nightâ€™s stay is required for each game.</p><p style='padding-left:20px'>c. Buggy services are limited to availability and will be provided on a first come first served basis.</p><p style='padding-left:20px'>d. Please contact your Citi ULTIMA Lifestyle Relationship Manager for more details. </p></li><p>4. For <b>Yearly Games</b>, Cardmembers are entitled to complimentary green fees in participating golf clubs worldwide. Complimentary green fees are limited to principal Cardmembers only, capped at a maximum of three (3) times per calendar year. Please contact your Citi ULTIMA Lifestyle Relationship Manager for more details. </p><p>5. For <b>Quarterly Games</b>, Cardmembers are entitled to two (2) complimentary green fees per quarter at Sentosa Golf Club (â€œQualifying Entitlementsâ€) provided the following conditions are met:<p style='padding-left:20px'>a. To enjoy the Qualifying Entitlements, Cardmembers must charge a minimum of S$25,000 in Qualifying Spend (as defined in clause 5(f) below) to his / her Citi ULTIMA card within the quarter (as set out below):</p><p style='padding-left:20px'>1st quarter: From 1 January to 31 March</p><p style='padding-left:20px'>2nd quarter: From 1 April to 30 June</p><p style='padding-left:20px'>3rd quarter: From 1 July to 30 September</p><p style='padding-left:20px'>4th quarter: From 1 October to 31 December</p></li><p style='padding-left:20px'>b. Qualifying Entitlements will be given in the next quarter after Qualifying Spend is made.</p>llustration 1: Cardmember A charges S$25,000 in Qualifying Spend in 1st quarter, the Qualifying Entitlements will be awarded only in the 2nd quarter and can be utilised for booking only up till the end of the 3rd quarter.</p><p style='padding-left:20px'>c.The Qualifying Entitlements are valid for use on weekdays only and can only be utilised for booking within two (2) quarters from the quarter the Qualifying Entitlement is earned. After such period, the Qualifying Entitlements can no longer be utilised for booking. The Qualifying Entitlements cannot be utilised for booking at any other golf clubs except for Sentosa Golf Club.</p><p style='padding-left:20px'>d. The Qualifying Entitlements are non â€“ transferable.</p><p style='padding-left:20px'>e. Cardmembers are also not allowed to bring forward any Qualifying Entitlements for redemption even if the Cardmember charges more than the minimum sum of S$25,000 in Qualifying Spend in that quarter (i.e., Cardmembers are only entitled to the maximum of two (2) complimentary games in each quarter).</p><p style='padding-left:20px'>f. â€œQualifying Spendâ€ refers to any retail transactions (including internet purchases) which do not arise from:</p><p style='padding-left:20px'>(i) any Equal Payment Plan (EPP) purchases;</p><p style='padding-left:20px'>(ii) refunded/disputed/unauthorised/fraudulent retail purchases;</p><p style='padding-left:20px'>(iii) Quick Cash and other instalment loans;</p><p style='padding-left:20px'>(iv) Citi PayLite/Citi Flexibill/cash advance/quasi-cash transactions/balance transfers/annual card membership fees/interest/goods and services taxes,</p><p style='padding-left:20px'>(v) bill payments made using the Eligible Card as a source of funds;</p><p style='padding-left:20px'>(vi) late payment fees;</p><p style='padding-left:20px'>(viii) Citi Payall transactions where the customer is not charged the Citi Payall service fee.</p></li><p>6.  A minimum number of golfers per flight may be required for booking to be processed as per the respective golf club's policy.</p><p>7. The Cardmember and his/her guests should hold valid golferâ€™s insurance as individual golf clubs may impose golf insurance requirement.</p><p>8.Cardmembers must follow the terms and conditions of booking set out in the â€œReservationsâ€ section below, or he/she will not be granted access rights to the participating clubs.</p><p>9. Where the Cardmember has an existing golf game booking under the Golf Privileges, he/she will not be allowed to book subsequent golf game(s) until the current game has been played, regardless if the Cardmember is booked as the principal Cardmember or as a Guest in the booking submission.</p><p>10. Golf Privilege is not valid for use in conjunction with other non-Citi ULTIMA promotions, discounts or offers, and cannot be utilised for participation in corporate golf events, private golf events or golf tournaments.</p><p>11. Golf Privilege is valid for use when booked directly by a Citi ULTIMA Lifestyle Relationship Manager, on behalf of the Cardmember.</p><p>12. Cardmembers are not allowed to take over tee times transferred from other golfers/participating club members to make use of the Golf Privileges.</p><p>13. Cardmembers must be present for their own booking made under their name.</p><p>14. Cardmembers are not allowed to use this program to request a pairing, or to join a flight booked by other golfers/participating club members at any participating clubs, and such requests will not be entertained by Citibank. All pairings are at the sole discretion of, and administered by, the participating golf clubs.</p><p>15. Cardmembers understand and acknowledge that participating clubs will not entertain any direct correspondence/enquires, attempts for checking availability and bookings, attempts in securing tee time, transfer of confirmed tee time, and/or amendment of a confirmed golf booking from Cardmember. Citibank reserves the right to reject/cancel Cardmembersâ€™ complimentary golf booking if the Cardmember contact any participating clubs directly.</li></ul><br/>II Reservations<ul><p>1. All bookings must be made by the Principal Cardmember through the Cardmember's Citi ULTIMA Lifestyle Relationship Manager or Citi ULTIMA Lifestyle Concierge.</p><p>2. A status update on the golf booking request will be sent to the Cardmember within 2 business days from the date of the golf booking request.</p><p>3. Except for the Singapore Games, Golf Privilege is valid for use on weekdays and weekends, except public holidays. The policy for public holidays varies by golf clubs.</p><p>Minimum balls per flight may be required for tee-off by participating clubs in accordance with their club policy.</p><p>4. Bookings cannot be made less than seven (7) calendar days and more than fourteen (14) calendar days in advance before day of tee-off, not inclusive of day of tee-off. (As an example, tee-off on a Friday means booking must be made on Friday the week before).Acceptance of all golf bookings, pairings and changes to tee times will be at the discretion of the participating clubs, and are subject to availability. Cardmembers will not be granted access rights to the participating clubs without prior bookings through the Citi ULTIMA Lifestyle Relationship Manager or Citi ULTIMA Lifestyle Concierge.</p></ul><br/><p><b>III Fees and Charges</b></p><ul><p>1. Additional add on charges for principal Cardmember and guest are applicable for buggy, caddie, turf mate, locker fee, insurance, taxes and all other ancillary and miscellaneous charges (â€œOther Usage Chargesâ€) at normal published rates at the participating clubs where applicable, subject to the participating clubsâ€™ terms and conditions.</p><p>2.Cardmembers have to pay for caddie, turf mate, locker fee, insurance, taxes and all other ancillary and miscellaneous charges (â€œOther Usage Chargesâ€) at normal published rates at the participating clubs where applicable, subject to the participating clubâ€™s terms and conditions. </p><p>3. All payment made in relation to usage of the Golf Privileges, and any Other Usage Charges incurred while utilizing the Golf Privileges, must be made with your Citi ULTIMA card.</p></ul><br/>IV Cancellation and Charges<ul><p>1. Any cancellations and/or amendments to bookings are strictly to be made through the Cardmember's Citi ULTIMA Lifestyle Relationship Manager or Citi ULTIMA Lifestyle Concierge via phone, and not directly with the participating clubs.</p><p>2. Any cancellations and/or amendments to bookings must be made at least three (3) working days prior to tee-off date, or as in accordance with golf club's cancellation policy (as an example, confirmed bookings at Mission Hill are non-amendable and non-cancellable). All requests for cancellations and/or amendments are subject to approval.</p><p>3. Cancellations made less than three (3) working days or less than the duration stated by the individual participating club's policy, late arrivals or non-shows shall be subject to full published rates and penalty stipulated by the participating clubs. Penalty charges will be borne in full by the Cardmember.</p><p>4. Amendment fee of US$10 + GST applies if changes are made to bookings after confirmation has been issued.</p><p>5. Rain check policy will apply as per participating clubsâ€™ policy.</p></ul><br/>V Miscellaneous<ul><p>1. Golfers must have a valid handicap.</p><p>2. Golf Privileges are valid for golf rounds only. They do not provide Cardmembers and their guests with access to the other recreational facilities at the participating clubs.</p><p>3. Cardmembers are subject to the terms and conditions of the participating clubs, which Cardmembers should contact the participating clubs directly to enquire.  </p><p>4. Cardmembers understand and acknowledge that participating clubs will not entertain any correspondence/enquires, and/or attempts for bookings from Cardmembers, in the event that Cardmember contacts the participating clubs directly to book the Golf Privileges.</p><p>5. Cardmembers acknowledge and agree that Citibank is not responsible for non-fulfilment of any privileges or any defect or lack in service or goods supplied by third parties, including the participating clubs. Accordingly, Cardmembers irrevocably agree not to make any claim against Citibank in relation to any loss, damage, disappointment, or distress of any kind arising from their use or attempted use of the Golf Privileges, including but not limited to failure or inadequacy of service or fulfilment of privileges by the participating clubs.</p><p>6. Citibank reserves the right at any time and without assigning any reason, to change or to cancel any Participating Club - it is the duty of the Cardholders to check the list of Participating Clubs prevailing at any time.</p><p>7. Citibank reserves the right to terminate the Golf Privileges at any time, and/or vary the terms and conditions governing this Golf Privileges from time to time.</p><p>8. Citibankâ€™s decision on all matters relating to the Golf Privileges will be at its discretion and will be final and binding on all customers. </p><p>9. Only Cardmembers whose card account is in good standing, as determined by Citibank, is entitled to participate in the Golf Privilege as at the date of commencement of the Golf Privilege or the date when a card is issued to him, whichever is the earlier. Participation in this Golf Privilege shall be governed by these terms and conditions and any amendments made hereto from time to time at Citibank's reasonable discretion. If the principal Cardmember's Citi ULTIMA card account is terminated (by the Cardmember or Citibank) at any time for any reason, the principal Cardmember and the Supplementary Cardmember will not be allowed to participate in the Golf Privilege and all unused Qualifying Entitlements in the Cardmember's account shall be cancelled.</p><p>10. To the fullest extent permissible by law, each participating Cardmember releases Citibank and the respective participating clubs from any claim, loss, damage, cost or expense (including any claim for legal expenses) sustained or incurred by him/her in connection with his/her participation or attempted participation in the Golf Privileges.</p></ul>",
+      
+      "condition2Type":"visa",
+      "condition2Title":"ULTIMA GOLF PRIVILEGES",
+      "condition2Table": "ultimagolf",
+      "condition2SubTitle":"",
+      "condition2Copy":"See the offer <a href='#/balance?icid=SGULUY8ENULTICAVC37' target='_blank'>here</a><br/>I. General Conditions<ul><p>1. Offer (â€œGolf Privilegeâ€) is valid for Citi ULTIMA Visa Card principal cardmembers (â€œCardmembersâ€) with cards issued in Singapore.</p><p>2. Cardmembers are entitled to the below, subject to availability of the participating golf club:<p style='padding-left:20px'>a. Complimentary green fees and buggy for Cardmember and one (1) guest at participating golf clubs <b>(â€œUnlimited Gamesâ€);</b></p><p style='padding-left:20px'>b. Complimentary green fees for Cardmember up to three (3) times per calendar year at participating golf clubs <b>(â€œYearly Gamesâ€);</b> and </p><p style='padding-left:20px'>c. Two (2) complimentary green fees for Cardmember at Sentosa Golf Club Singapore per quarter <b>(â€œQuarterly Gamesâ€)</b>.</p></li><p>3. For <b>Unlimited Games</b>, Cardmembers are entitled to complimentary green fees and buggy for principal Cardmember and one (1) guest. Terms and conditions are   applicable, including but not limited to the following: <p style='padding-left:20px'>a. Cardmembers are entitled to book and play for a maximum of five (5) times per calendar year in Japan. </p><p style='padding-left:20px'>b. If Mission Hills Shenzhen/Dongguan is a participating golf club at the time of booking, a minimum of one (1) nightâ€™s stay is required for each game.</p><p style='padding-left:20px'>c. Buggy services are limited to availability and will be provided on a first come first served basis.</p><p style='padding-left:20px'>d. Please contact your Citi ULTIMA Lifestyle Relationship Manager for more details. </p></li><p>4. For <b>Yearly Games</b>, Cardmembers are entitled to complimentary green fees in participating golf clubs worldwide. Complimentary green fees are limited to principal Cardmembers only, capped at a maximum of three (3) times per calendar year. Please contact your Citi ULTIMA Lifestyle Relationship Manager for more details. </p><p>5. For <b>Quarterly Games</b>, Cardmembers are entitled to two (2) complimentary green fees per quarter at Sentosa Golf Club (â€œQualifying Entitlementsâ€) provided the following conditions are met:<p style='padding-left:20px'>a. To enjoy the Qualifying Entitlements, Cardmembers must charge a minimum of S$25,000 in Qualifying Spend (as defined in clause 5(f) below) to his / her Citi ULTIMA card within the quarter (as set out below):</p><p style='padding-left:20px'>1st quarter: From 1 January to 31 March</p><p style='padding-left:20px'>2nd quarter: From 1 April to 30 June</p><p style='padding-left:20px'>3rd quarter: From 1 July to 30 September</p><p style='padding-left:20px'>4th quarter: From 1 October to 31 December</p></li><p style='padding-left:20px'>b. Qualifying Entitlements will be given in the next quarter after Qualifying Spend is made.</p>llustration 1: Cardmember A charges S$25,000 in Qualifying Spend in 1st quarter, the Qualifying Entitlements will be awarded only in the 2nd quarter and can be utilised for booking only up till the end of the 3rd quarter.</p><p style='padding-left:20px'>c.The Qualifying Entitlements are valid for use on weekdays only and can only be utilised for booking within two (2) quarters from the quarter the Qualifying Entitlement is earned. After such period, the Qualifying Entitlements can no longer be utilised for booking. The Qualifying Entitlements cannot be utilised for booking at any other golf clubs except for Sentosa Golf Club.</p><p style='padding-left:20px'>d. The Qualifying Entitlements are non â€“ transferable.</p><p style='padding-left:20px'>e. Cardmembers are also not allowed to bring forward any Qualifying Entitlements for redemption even if the Cardmember charges more than the minimum sum of S$25,000 in Qualifying Spend in that quarter (i.e., Cardmembers are only entitled to the maximum of two (2) complimentary games in each quarter).</p><p style='padding-left:20px'>f. â€œQualifying Spendâ€ refers to any retail transactions (including internet purchases) which do not arise from:</p><p style='padding-left:20px'>(i) any Equal Payment Plan (EPP) purchases;</p><p style='padding-left:20px'>(ii) refunded/disputed/unauthorised/fraudulent retail purchases;</p><p style='padding-left:20px'>(iii) Quick Cash and other instalment loans;</p><p style='padding-left:20px'>(iv) Citi PayLite/Citi Flexibill/cash advance/quasi-cash transactions/balance transfers/annual card membership fees/interest/goods and services taxes,</p><p style='padding-left:20px'>(v) bill payments made using the Eligible Card as a source of funds;</p><p style='padding-left:20px'>(vi) late payment fees;</p><p style='padding-left:20px'>(viii) Citi Payall transactions where the customer is not charged the Citi Payall service fee.</p></li><p>6.  A minimum number of golfers per flight may be required for booking to be processed as per the respective golf club's policy.</p><p>7. The Cardmember and his/her guests should hold valid golferâ€™s insurance as individual golf clubs may impose golf insurance requirement.</p><p>8.Cardmembers must follow the terms and conditions of booking set out in the â€œReservationsâ€ section below, or he/she will not be granted access rights to the participating clubs.</p><p>9. Where the Cardmember has an existing golf game booking under the Golf Privileges, he/she will not be allowed to book subsequent golf game(s) until the current game has been played, regardless if the Cardmember is booked as the principal Cardmember or as a Guest in the booking submission.</p><p>10. Golf Privilege is not valid for use in conjunction with other non-Citi ULTIMA promotions, discounts or offers, and cannot be utilised for participation in corporate golf events, private golf events or golf tournaments.</p><p>11. Golf Privilege is valid for use when booked directly by a Citi ULTIMA Lifestyle Relationship Manager, on behalf of the Cardmember.</p><p>12. Cardmembers are not allowed to take over tee times transferred from other golfers/participating club members to make use of the Golf Privileges.</p><p>13. Cardmembers must be present for their own booking made under their name.</p><p>14. Cardmembers are not allowed to use this program to request a pairing, or to join a flight booked by other golfers/participating club members at any participating clubs, and such requests will not be entertained by Citibank. All pairings are at the sole discretion of, and administered by, the participating golf clubs.</p><p>15. Cardmembers understand and acknowledge that participating clubs will not entertain any direct correspondence/enquires, attempts for checking availability and bookings, attempts in securing tee time, transfer of confirmed tee time, and/or amendment of a confirmed golf booking from Cardmember. Citibank reserves the right to reject/cancel Cardmembersâ€™ complimentary golf booking if the Cardmember contact any participating clubs directly.</li></ul><br/>II Reservations<ul><p>1. All bookings must be made by the Principal Cardmember through the Cardmember's Citi ULTIMA Lifestyle Relationship Manager or Citi ULTIMA Lifestyle Concierge.</p><p>2. A status update on the golf booking request will be sent to the Cardmember within 2 business days from the date of the golf booking request.</p><p>3. Except for the Singapore Games, Golf Privilege is valid for use on weekdays and weekends, except public holidays. The policy for public holidays varies by golf clubs.</p><p>Minimum balls per flight may be required for tee-off by participating clubs in accordance with their club policy.</p><p>4. Bookings cannot be made less than seven (7) calendar days and more than fourteen (14) calendar days in advance before day of tee-off, not inclusive of day of tee-off. (As an example, tee-off on a Friday means booking must be made on Friday the week before).Acceptance of all golf bookings, pairings and changes to tee times will be at the discretion of the participating clubs, and are subject to availability. Cardmembers will not be granted access rights to the participating clubs without prior bookings through the Citi ULTIMA Lifestyle Relationship Manager or Citi ULTIMA Lifestyle Concierge.</p></ul><br/><p><b>III Fees and Charges</b></p><ul><p>1. Additional add on charges for principal Cardmember and guest are applicable for buggy, caddie, turf mate, locker fee, insurance, taxes and all other ancillary and miscellaneous charges (â€œOther Usage Chargesâ€) at normal published rates at the participating clubs where applicable, subject to the participating clubsâ€™ terms and conditions.</p><p>2.Cardmembers have to pay for caddie, turf mate, locker fee, insurance, taxes and all other ancillary and miscellaneous charges (â€œOther Usage Chargesâ€) at normal published rates at the participating clubs where applicable, subject to the participating clubâ€™s terms and conditions. </p><p>3. All payment made in relation to usage of the Golf Privileges, and any Other Usage Charges incurred while utilizing the Golf Privileges, must be made with your Citi ULTIMA card.</p></ul><br/>IV Cancellation and Charges<ul><p>1. Any cancellations and/or amendments to bookings are strictly to be made through the Cardmember's Citi ULTIMA Lifestyle Relationship Manager or Citi ULTIMA Lifestyle Concierge via phone, and not directly with the participating clubs.</p><p>2. Any cancellations and/or amendments to bookings must be made at least three (3) working days prior to tee-off date, or as in accordance with golf club's cancellation policy (as an example, confirmed bookings at Mission Hill are non-amendable and non-cancellable). All requests for cancellations and/or amendments are subject to approval.</p><p>3. Cancellations made less than three (3) working days or less than the duration stated by the individual participating club's policy, late arrivals or non-shows shall be subject to full published rates and penalty stipulated by the participating clubs. Penalty charges will be borne in full by the Cardmember.</p><p>4. Amendment fee of US$10 + GST applies if changes are made to bookings after confirmation has been issued.</p><p>5. Rain check policy will apply as per participating clubsâ€™ policy.</p></ul><br/>V Miscellaneous<ul><p>1. Golfers must have a valid handicap.</p><p>2. Golf Privileges are valid for golf rounds only. They do not provide Cardmembers and their guests with access to the other recreational facilities at the participating clubs.</p><p>3. Cardmembers are subject to the terms and conditions of the participating clubs, which Cardmembers should contact the participating clubs directly to enquire.  </p><p>4. Cardmembers understand and acknowledge that participating clubs will not entertain any correspondence/enquires, and/or attempts for bookings from Cardmembers, in the event that Cardmember contacts the participating clubs directly to book the Golf Privileges.</p><p>5. Cardmembers acknowledge and agree that Citibank is not responsible for non-fulfilment of any privileges or any defect or lack in service or goods supplied by third parties, including the participating clubs. Accordingly, Cardmembers irrevocably agree not to make any claim against Citibank in relation to any loss, damage, disappointment, or distress of any kind arising from their use or attempted use of the Golf Privileges, including but not limited to failure or inadequacy of service or fulfilment of privileges by the participating clubs.</p><p>6. Citibank reserves the right at any time and without assigning any reason, to change or to cancel any Participating Club - it is the duty of the Cardholders to check the list of Participating Clubs prevailing at any time.</p><p>7. Citibank reserves the right to terminate the Golf Privileges at any time, and/or vary the terms and conditions governing this Golf Privileges from time to time.</p><p>8. Citibankâ€™s decision on all matters relating to the Golf Privileges will be at its discretion and will be final and binding on all customers. </p><p>9. Only Cardmembers whose card account is in good standing, as determined by Citibank, is entitled to participate in the Golf Privilege as at the date of commencement of the Golf Privilege or the date when a card is issued to him, whichever is the earlier. Participation in this Golf Privilege shall be governed by these terms and conditions and any amendments made hereto from time to time at Citibank's reasonable discretion. If the principal Cardmember's Citi ULTIMA card account is terminated (by the Cardmember or Citibank) at any time for any reason, the principal Cardmember and the Supplementary Cardmember will not be allowed to participate in the Golf Privilege and all unused Qualifying Entitlements in the Cardmember's account shall be cancelled.</p><p>10. To the fullest extent permissible by law, each participating Cardmember releases Citibank and the respective participating clubs from any claim, loss, damage, cost or expense (including any claim for legal expenses) sustained or incurred by him/her in connection with his/her participation or attempted participation in the Golf Privileges.</p></ul>",
+
+      "condition3Type":"",
+      "condition3Title":"ULTIMA GOLF TOURNAMENT ",
+      "condition3Table": "ultimagolf",
+      "condition3SubTitle":"",
+      "condition3Copy":"Click <a href='/pdf/0825/Citi_ULTIMA_Golf_Tournament_2025_Tnc.pdf' target='_blank'>here</a> to view the ULTIMA Golf Tournament Terms and Conditions<br/>"
+   },
+   "termsandconditionsDelights": {
+      "condition1Type":"",
+      "condition1Title":"CITI ULTIMA BIRTHDAY DELIGHTS (1\u00A0AUGUST 2025 - 31 JULY 2027)",
+      "condition1SubTitle":"",
+      "condition1Copy":"See the offer <a href='#/delights?icid=SGULUY8ENULTICAVC38' target='_blank'>here</a>.<br/><b style='margin-top:8px;'>Redemption Process:</b><br/><p>To redeem gift, please SMS to 9757 1837 (Monday to Friday, 10am â€“ 6pm) or email <u>ultimabirthday@twgtea.com</u> with your redemption details at least three (3) business days in advance.</p><p>Kindly note that the TWG Tea Whole Cake is not available for redemption at TWG Tea at ION Orchard, and the Grand Explorer Tea Set is not available for redemption at TWG Tea at Takashimaya. </p><br/><b>Redemption details required:</b><br/><div class='hypen'><ul><li>Name of Main Cardmember</li><li>Serial number (found at top of email)</li><li>Choice of birthday treat</li><li>Preferred collection date and outlet</li></ul></div><br/><b class='mt-3'>Participating outlets:</b><br/><p>TWG Tea on the Bay at Marina Bay Sands, The Shoppes at Marina Bay Sands<br/>2 Bayfront Avenue, B1-122/125, Singapore 018972<br/>Tel: +65 6535 1837<br/>Opening Hours: Monday - Sunday, 10am - 10pm</p><br/><p>TWG Tea Garden at Marina Bay Sands, The Shoppes at Marina Bay Sands<br/>2 Bayfront Avenue, B2-65/68A, Singapore 018972<br/>Tel: +65 6565 1837<br/>Opening Hours: Monday - Sunday, 10am - 10pm</p><br/><p>TWG Tea at Takashimaya Level 2<br/>Takashimaya Singapore, 391 Orchard Road, Level 2, Singapore 238873<br/>Tel: +65 6363 1837<br/>Opening hours: Monday - Sunday: 10am - 9.30pm</p><br/><p>TWG Tea at ION Orchard<br/>2 Orchard Turn, #02-21, Singapore 238801<br/>Tel: + 65 6735 1837<br/>Opening Hours: Monday-Sunday, 10am-10pm<br/></p><br/><p>TWG Tea at SwissÃ´tel The Stamford<br/>2 Stamford Road, 178882, Singapore<br/>Tel: +65 6538 1837<br/>Opening Hours: Monday â€“ Sunday, 10am â€“ 10pm<br/></p><br/><b>Terms and Conditions: </b><br/><div class='hypen'><ul><li>The Citi ULTIMA Birthday Programme is valid for main Citi ULTIMA Cardmember birthdays on their birthday month.</li><li>Offer is only valid on birthday month, with extension of last week of preceding month and month following birthday month upon request. </li><li>The birthday discount of S$10 off is valid for any in- store purchase at all TWG Tea Boutique except for Changi Airport. The birthday discount is applicable with a minimum $$100 retail spend. Minimum spend may be waived for existing MyTWG Green members or with any new MyTWG Green membership sign-up.</li><li>Orders/reservations must be made at least three (3) business days in advance. Please quote â€œCiti ULTIMA birthdayâ€ at point of reservation via SMS or email. Reservation operating hours from -Mondays to Friday, 10am to 6pm. All redemptions are to be self-collected.</li><li>For all cake and tea gift set redemptions, please note that cake and tea gift set are valid for takeaway only.</li><li>For birthday offer redemptions, voucher is valid for one time use only</li><li>For all dinner reservations, Cardmembers must contact outlet directly to change reservations once it has been confirmed by TWG Tea customer service team.</li><li>There will be no replacement redemptions for any no-shows.</li><li>This Birthday Privilege is not exchangeable for cash or any other items</li><li>This Birthday Privilege is strictly non-transferable and cake voucher is valid for one time use only</li><li>This Birthday Privilege is not valid with other promotions, offers, privileges and cards</li><li>Citibank and merchant reserve the rights to amend the terms and conditions without prior notice.</li><li>Citibank is not an agent of the merchants and makes no representation as to the quality of goods and services provided.</li><li>All disputes about quality of performance of the product and/or services should be resolved directly with the respective merchant.</li><li>Citibankâ€™s and TWG Teaâ€™s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.</li><li>Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with TWG Tea.</li><li>Citibank and TWG Tea reserve the right, at their reasonable discretion, to vary, add to, or delete the Promotion terms and/or terminate the Promotion.</li><li>â€œCitibankâ€ refers to Citibank Singapore Limited. The term â€œTWG Teaâ€ refers to TWG Tea Co Pte Ltd.</li></ul></div>",
+      "condition3Title":"MBS",
+      "condition3SubTitle":"",
+      "condition3Copy":"See the offer <a href='#/delights' target='_blank'>here</a>.<br/><ul><li> This Offer shall only be valid during the campaign period from 1&nbsp;May&nbsp;2026 to 30&nbsp;April&nbsp;2028.</li><li>Eligible Citi ULTIMA cardmembers who sign up for Sands Lifestyle membership during this period will receive a complimentary 3-month membership upgrade to Marina Bay Sands loyalty program â€œSands Lifestyle Elite Tierâ€. </li> <li>Citi ULTIMA cardmembers who achieve a minimum spend of SGD15,000 on transactions which are eligible to receive Rewards Dollars during the 3-month period from the date of upgrade will enjoy another 9-month period at Elite Tier, commencing immediately after the first period expires.</li><li>In the case of cardmembers who do not meet the minimum spend amount, they will be downgraded to the Prestige tier at the end of the initial 3-month period. </li><li> The Offer is valid for one-time redemption per eligible cardmember. Applicants who have already redeemed an Elite or Prestige upgrade offer with third party partners will not be eligible for the Offer. </li><li> Sands Rewards Lifestyle Terms and Conditions shall apply. </li><li>The benefits made available to cardmembers pursuant to the terms of the Offer are not exchangeable or refundable for cash, credit or kind. </li><li>Citibank and Marina Bay Sands (â€œMBSâ€) reserve the right to suspend, withdraw or terminate the Offer at any time without notice. The decision of Citibank and MBS on all matters relating to the Offer shall be final, binding and conclusive on all cardmembers, including without limitation, any decision on the eligibility of any person to participate in the Offer.</li><li> Citibank and MBS may at any time at its sole and absolute discretion, without notice or assigning any reasons therefore, delete, vary, supplement, amend or modify the terms of the Offer at any time. The cardmembers are deemed to accept and are bound by such variations, additions, deletions, amendments and/or modifications if the cardmembers do not terminate the use of the card.</li><li>In the event of any inconsistency between terms and conditions and any brochure, marketing or promotional materials relating to Offer, the terms of the Offer as set out herein shall prevail.</li><li> Citibank and MBS shall not be responsible for the quality, merchantability or fitness for any purpose or any other aspect of the Offer, or any product and/or service relating to the Offer. Notwithstanding anything herein, Citibank and MBS shall not at any time be responsible or held liable for any defect or malfunction in any product or the deficiency in any service provided, and/or any loss, injury, damage or harm suffered or incurred by or in connection with the Offer, and/or the use of any product and/or service relating to the Offer, by any person. </li><li> Citibank and MBS shall not be responsible for any loss or damage to any person in connection with the Offer howsoever arising, including any error in computing chances, any breakdown or malfunction in any computer system or equipment, or any notice which is misdirected or lost in the post or in transmission.</li><li> The terms of this Offer shall be governed by and construed in accordance with the laws of Singapore, and the cardmembers irrevocably submit to the non-exclusive jurisdiction of the Singapore courts.</li></ul>"
+   },   
+   "termsandconditionsMoments": {
+      "condition1Type":"mastercard",
+      "condition1Title":"Mastercard Priceless Experience",
+      "condition1SubTitle":"",
+      "condition1Copy":"General terms and conditions:<br/><ol><li>Refer to <a href='https://www.priceless.com/citiultima' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>www.priceless.com/citiultima</a> for experience specific terms and conditions.</li><li>The relevant experience is exclusively for Mastercard cardholders who are registered members of Priceless.com and have timely replied by the RSVP deadline specified in the offer.</li><li>The organiser is: Sport Travel Group Limited (trading as GolfTraveller) with registered company number: 09172243 and registered address: 642a Kings Road, London, SW6 2DU (the â€œOrganizerâ€) You must agree to the Organizerâ€™s terms set out in clause 5 below.</li><li>Limited quantities are available. Experience is provided by the Organizer on a one per person only and on a first come, first served basis, for up to the maximum number of cardholders listed in the offer details.</li><li>If you have met the eligibility requirements and receive an available spot for this experience, Mastercard will email you a confirmation with further details about the event.</li><li>Booking, refund and cancellation policy of the Organizer will apply  and can be found at: <a href='https://www.golftraveller.com/priceless-mastercard-tc' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>www.golftraveller.com/priceless-mastercard-tc</a></li><li>Offer is non-refundable and subject to applicable taxes (for paid experiences).  No returns, exchanges, substitutions or cash redemptions permitted.</li><li>Mastercard is not responsible booking, cancellations, dealing with refunds or for guest transportation to or from the venue.</li><li>Admission is subject to the restrictions and requirements of the venue and event organizers, as applicable. You may be required to complete a waiver and/or release prior to participation in the experience. Participants may also be required to wear masks, maintain social distance and adhere to other rules related to Covid-19 regulations, including, but not limited to, mandatory quarantine. Please check local travel regulations related to Covid-19.</li><li>Experience is for personal use only, is non-transferable, and may not be resold, republished or used by you for any commercial or promotional purpose whatsoever. Any resale or attempt to resell or republish the experience by you is strictly prohibited and will be a breach of these terms and, in addition to any other rights or remedies available to us, may result in your experience and/or your Priceless account registration being cancelled without prior notice or liability to you.</li><li>Mastercard does not control responses provided by any third party host or presenter of an experience, and statements made by any such parties, including without limitation, brand ambassadors and celebrities, may not reflect the views of Mastercard. In addition, Mastercard does not endorse and is not making any recommendation regarding any products, services or other material that may be presented or described by any such third party during the experience.</li><li>Mastercard reserves the right to disqualify you from participating in this and any future experience if your behavior, including any communication via email or any other communication channel, is deemed inappropriate, harmful, harassing, illegal, offensive or for any other reason is deemed to be inconsistent with any applicable terms of use or other policies of any applicable platforms or providers, in Mastercard's absolute and final discretion. If a cardholderâ€™s participation is denied for any of the reasons set forth in this provision, Mastercard will, time permitting, attempt to confirm the next qualifying cardholder.  The rights in this provision are in addition to any other rights or remedies available to us and may also result in cancellation of your Priceless account registration.</li><li>Your participation in this experience constitutes your consent for Mastercard, its affiliates and third parties on behalf thereof to use and publish your image and/or voice as captured by any audio or video recording, as well as your name, avatar, biographical data, questions or any additional information that is provided by you in connection with this experience without any limitations of time, place or content for Mastercardâ€™s promotional purposes, without compensation, except as required by law.</li><li>Mastercard reserves the right at any time to cancel, modify, reschedule or change this experience or any aspect of it, if, at its sole discretion, the experience is not capable of being conducted as specified or is not advisable under the circumstances. This will apply in any of, but is not limited to, the following circumstances: force majeure events, fraud, technical failures, or any other causes beyond the control of Mastercard or experience provider. If the experience is cancelled, any amounts already paid by you will be fully reimbursed or the experience will be rescheduled, at Mastercardâ€™s discretion.</li><li>By participating, you agree that Mastercard, experience provider and their designees and assigns and each of their respective officers, directors, employees, shareholders, representatives and agents shall have no liability and will be held harmless for any liability, loss, injury or death to you or any other person (including any guests), including, without limitation, damage to personal or real property, due in whole or in part, directly or indirectly, by reason of the acceptance, possession, use or participation in this experience.</li><li>By participating, you further agree to be bound by these terms & conditions and the PricelessÂ® Terms of Use, which can be found at: <a href='https://www.priceless.com/terms/en_US' target='_blank'> https://www.priceless.com/terms/en_US </a>.</li><li>To book this experience you must sign into your <a href='https://www.priceless.com/citiultima' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>www.priceless.com/citiultima</a> account</li></ol>",
+      "condition4Type":"mastercard",
+      "condition4Title":"MASTERCARD TRAVEL & LIFESTYLE SERVICES PREMIUM(MTLS)",
+      "condition4SubTitle":"",
+      "condition4Copy":"<ol><a href='https://specials.priceless.com/en-my/benefitsDetail/Mastercard_Travel___Lifestyle_Services?Oid=202001060002' target='_blank' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)'>Click here</a> for full terms and condition</ol>", 
+      "condition7Type":"mastercard",
+      "condition7Title":"HERTZ CAR RENTAL PRIVILEGES",
+      "condition7SubTitle":"",
+      "condition7Copy":"<a href='https://specials.priceless.com/en-sg/offers/Hertz_Car_Rental?Oid=201811061196&issuerId=201810190021&productId=202310170001' onclick='return confirm(`You are now leaving the Citibank website and entering a third party site. All the information you provide will be subject to confidentiality and security terms of the applicable third party site. Citibank Singapore Limited does not take responsibility for information you provide at such third party sites. Would you like to continue?`)' target='_blank'>Click here</a> for HERTZ CAR RENTAL PRIVILEGES Terms and Conditions."
+   },
+   "importantinformation": {
+      "header": "Important <br/> Information",
+      "title1": "IMPORTANT INFORMATION",
+      "title2": "MANAGE YOUR ACCOUNT",
+      "title3": "PRODUCT DISCLOSURES"
+   },
+   "importantinformationTitle1": {
+      "condition1Title":"Lost or stolen cards",
+      "condition1SubTitle":"",
+      "condition1Copy":"If your card is lost, stolen or used by any other person or your PIN (Personal Identification Number) and/or Telephone Banking PIN (TPIN) code is disclosed to any other person, you must immediately notify us by calling 6337 2484.",
+      "condition2Title":"Fee schedule",
+      "condition2SubTitle":"",
+      "condition2Copy":"Basic Card Annual Fee: S$4,237.92 (inclusive of 9% GST). Comes with 2 supplementary cards.<br/> Additional card will be charged at an annual fee of S$1,090 (inclusive of 9% GST) each.",
+      "condition3Title":"card activation",
+      "condition3SubTitle":"",
+      "condition3Copy":"All new, renewal and replacement Citibank Credit Cards sent via mail are deactivated.<br/> Please activate your card before using it.<br/><strong><a href='https://www.citibank.com.sg/cardact/?icid=SGULUY8ENULTICAVC46' target='_blank'>Click here</a></strong> for answers to frequently asked questions and to find out about our alternative activation channels available anytime and anywhere. ",
+      "condition4Title":"activate your card for overseas use",
+      "condition4SubTitle":"",
+      "condition4Copy":"Your Citi ULTIMA Card has its overseas use feature deactivated by default as a security measure. You can activate and deactivate your card overseas with just an SMS.<br/>To activate it, SMS ACT<space>OS<space><Last four digits of your card number> to 72484.To deactivate it, SMS DEACT<space>OS<space><Last four digits of your card number> to 72484.<br/>If you are overseas, please SMS to +65 9657 2484 instead.<br/><br/>From 1 April 2016, if you wish to have a free credit report, you may obtain it within 30 calendar days upon receipt of your e-welcome pack via the credit bureau website listed below. In the event you are unable to do so,  please present your NRIC to the following credit bureauâ€™s registered office to obtain  the report:<br/><br/>Credit Bureau (Singapore) Pte Ltd<br/>2 Shenton Way<br/>#20-02 SGX Centre 1<br/>Singapore 068804<br/>Tel: (65) 6565 6363<br/>www.creditbureau.com.sg<br/><br/>Note: The free credit report does not apply to applicants of Citi secured cards, Citi Corporate Cards (Sole Corporate Liability), Citi Purchasing Card and Citi Travel Account.",
+      "condition5Title":"Credit Card Chargeback & Dispute Resolution",
+      "condition5SubTitle":"",
+      "condition5Copy":"<a href='https://www.citibank.com.sg/global_docs/pdf/FAQs-CreditCard-Chargeback-Dispute.pdf'>Frequently Asked Questions</a> on Credit Card Chargeback & Dispute Resolution."
+   },
+   "importantinformationTitle2": {
+      "condition1Title":"online banking",
+      "condition1SubTitle":"",
+      "condition1Copy":"Seize control of your time and money - bank, shop and redeem your rewards with the click of a mouse.<br/><strong><a href='https://www.citibank.com.sg/personal-banking/online-services/internet-banking/?lid=SGENCMILMSCATLLearnmoremWMPR'>Learn more</a></strong>",
+      "condition2Title":"e-statements",
+      "condition2SubTitle":"",
+      "condition2Copy":"Just like paper statements but better. Receive your statements directly in your inbox. What's more, receive them earlier than you would get your paper statements.<br/><strong><a href='https://www.citibank.com.sg/personal-banking/online-services/electronic-statements-and-advices/?lid=SGENCMILMSCATLLearnmorenWMPR'>Learn more</a></strong>",
+      "condition3Title":"citi alerts",
+      "condition3SubTitle":"",
+      "condition3Copy":"Get instant SMS and email alerts when there are any transactions on your accounts or credit cards.<br/><strong><a href='https://www.citibank.com.sg/personal-banking/online-services/mobile-banking/citi-alerts/?lid=SGENCMILMSCATLLearnmoreoWMPR'>Learn more</a></strong>",
+      "condition4Title":"supplementary cards",
+      "condition4SubTitle":"",
+      "condition4Copy":"Share all of your card privileges with your loved one(s) and earn rewards whenever your supplementary cardmember(s) spends.<br/><strong><a href='https://www.citibank.com.sg/supp/index.html?lid=SGENCMILMSCATLLearnmorepWMPR'>Learn more</a></strong>",
+      "condition5Title":"personal loans on your citibank credit cards",
+      "condition5SubTitle":"",
+      "condition5Copy":"Get extra cash with our flexible, hassle free instalment loans on your Citibank Credit Cards. Enjoy low interest rates with a choice of tenure from 12 to 60 months."
+      
+   },
+   "importantinformationTitle3": {
+      "link2Title":"Citi ULTIMA Cardmember Agreement",
+      "link2URL":"https://www.citibank.com.sg/microsite/credit-cards/rewards/ultima-card-byinviteonly/pdfs/Citi_ULTIMA_Cardmember_Agreement.pdf",
+																			 
+																					 
+      "link4Title":"Citi ULTIMA Information Sheet",
+      "link4URL":"https://www.citibank.com.sg/global_docs/pdf/Citi_ULTIMA_Information_Sheet.pdf",
+      "link5Title":"Privacy Policy",
+      "link5URL":"https://www.citibank.com.sg/footer/privacy/?lid=SGENCMILMSCATLLearnmoresWMPR",
+      "link6Title":"ABS Credit Card Guide",
+      "link6URL":"https://abs.org.sg/docs/library/abs_creditcards_english.pdf"
+    
+   },
+   "features":{
+      "FeatureOneTitle":"ENCOUNTER PARADISE WITH EVERY ADVENTURE",
+      "FeatureOneBody":"Wherever your sense of wonder takes you, enjoy unparalleled privileges and access every step of the way, made available to the chosen ones.",
+      "FeatureOneLinkText":"VIEW ULTIMATE HORIZONS",
+      "FeatureTwoTitle":"CURATED TO DELIGHT YOUR SENSES",
+      "FeatureTwoBody":"Delight your palate with priority bookings at Michelin-starred restaurants and exclusive dining and lifestyle privileges.",
+      "FeatureTwoLinkText":"VIEW ULTIMATE Indulgence",
+      "FeatureThreeTitle":"HEALTH AND WELLNESS ON ANOTHER LEVEL",
+      "FeatureThreeBody":"Rejuvenate mind, body and soul with private wellness retreats and some of the most historic and spectacular golf courses.",
+      "FeatureThreeLinkText":"VIEW ULTIMATE BALANCE",
+      "FeatureFourTitle":"A LIFE OF RICHNESS",
+      "FeatureFourBody":"A private island with your loved ones. An iconic golf course with dear friends. Tasting a resurrected whisky once lost to time. Unique experiences you'll treasure forever.",
+      "FeatureFourLinkText":"VIEW ULTIMATE MOMENTS",
+      "FeatureFiveTitle":"MEMBERSHIP OPENS DOORS",
+      "FeatureFiveBody":"Enter the fold of inner circles, special events and unique offerings reserved for the exclusive enjoyment of ULTIMA members.",
+      "FeatureFiveLinkText":"VIEW ULTIMATE DELIGHTS",
+      "FeatureSixTitle":"EXPERIENCE DEDICATED SERVICE AT ITS BEST",
+      "FeatureSixBody":"Consider your Lifestyle Relationship Manager as your personal concierge, ready to assist you with all your ULTIMA privileges and credit card related needs.",
+      "FeatureSixLinkText":"VIEW ULTIMATE DEDICATION"
+   },
+   "gastro": {
+    "preTitle": "MICHELIN GUIDE X CITI ULTIMA",
+    "title": "Gastronomic Dining Collection",
+    "odeTitle": "",
+    "comingSoon": "Stay tuned for our upcoming exclusive<br/>chef-curated dinners.",
+    "copy": "Citi ULTIMA proudly presents an exclusive, year-round partnership with MICHELIN Singapore. Gastronomic Dining Collection is the upper echelon of bespoke dining. Enjoy exclusive chef-curated dinners, featuring collaborations between local and international chefs from MICHELIN Starred restaurants, and a chance to meet the chefs behind the creations.",
+    "preTitle2": "YEAR-LONG PRIVILEGES",
+    "title2": "DINING AND LIFESTYLE",
+    "copy2": "Embark on epicurean journeys at these exceptional hotels or set sail on a luxury private yacht charter. These privileges are available all year round.",
+    "chefCopy": "<p>Discover an evocative expression of Southeast Asia's rich gastronomic traditions. Under the theme of Heritage Larder, Seroja and Linamnam draw upon native ingredients, ancestral techniques and personal histories to present a contemporary interpretation of the Malay Archipelago and the Philippines.<br/><br/>At the helm are two of Southeast Asiaâ€™s most distinguished young chefs: Chef Kevin Wong of newly award Two-MICHELIN-Starred Seroja and Chef Don Baldosano of One-MICHELIN-Starred Linamnam. Both recipients of the MICHELIN Guide Young Chef Award, each has earned acclaim for bringing the cuisine of his homeland into a new fine-dining vernacular while remaining deeply connected to its origins.<br/><br/>Together, they illuminate the ingredients, techniques and traditions of the region with a shared conviction that its indigenous larder belongs at the forefront of contemporary gastronomy.<br /><br /><br /><br /><span class='text-3xl text-center tracking-custom leading-10 uppercase mt-10'>The Chefs</span></p>",
+    "chef1Title": "<span style='color:#C7A56A;font-weight:600;'>Chef Kevin Wong</span><br/><span style='color:#D1D5DB;font-weight:400;'>SEROJA, Singapore</span>",
+    "chef1Copy": "An alumnus of prestigious establishments in France, the U.S. and Singapore, ownerâ€‘chef Kevin Wong opened Seroja in 2022 as a tribute to his love of the Malay Archipelago.<br/>His menus celebrate Malaysiaâ€™s culinary traditions through an abundance of local produce, spices and time-honoured techniques. Meticulous, artful plating is matched by flavours that are subtle and finely balanced, complemented by thoughtfully considered wine and non-alcoholic beverage pairings. ",            
+    "chef2Title": "<span style='color:#C7A56A;font-weight:600;'>Chef Don Baldosano</span><br/><span style='color:#D1D5DB;font-weight:400;'>LINAMNAM, The Philippines</span>",
+    "chef2Copy": "Working solo from his garden kitchen, Chef Don Baldosano serves just 10 diners in what was once his childhood bedroom and is now an elegant dining space adorned with woven wall coverings, wooden floors and Tiffany-style lamps.<br/>His deeply personal dishes are rooted in regional Filipino traditions and shaped by his distinctive culinary philosophy. Expect creations such as lamb dumplings in chicharon broth and turon with aged banana and jackfruit. Dining at this intimate hidden gem is a truly memorable experience.",
+    "button": "BOOK HERE",      
+    "buttonLink": "https://www.chope.co/singapore-restaurants/pages/heritage-larder",
+    "chefCopy2": "Reserve with your Citi ULTIMA Card <br/><br/>For full terms and conditions, <a href='#/terms-and-conditions/indulgence/1' target='_blank'>click here</a>.",
+    "footerDetail1": "27 October & 28 October 2026 <br/>Tuesday & Wednesday",
+    "footerDetail2": "SEROJA<br>7 Fraser Street 01-30/31/32/33 Duo Galleria <br>Singapore 189356</span>",
+    "footerDetail3": "Seatings on both days at:<br/>6pm | 6:30pm | 7pm | 7:30pm",
+    "footerDetail4": "S$680 nett <br>per pair",
+    "footerAddress": "",
+    "footerDetail5": "Booking Opens",
+    "footerAddress5": "Thursday | 8 October 2026 | 10am"
+ },
+   "concierge":{
+      "conciergeTitle":"Exceptional service for the ultimate life.",
+      "conciergeBody": "For other Citi Cardmember Privileges click <a href=\"https://www.citiworldprivileges.com/sg-singapore\" target=\"blank\">here</a><br/>It is our commitment to go above and beyond; to create unique experiences that inspire you and leave treasured memories. <br/> <br/> Whether it is searching for that limited-edition timepiece, or crafting that delectable epicurean experience, rest assured that every detail will be taken care of. <br/> <br/> A world of exceptional experiences awaits you.",
+      "conciergeButton": "Contact Us"
+   },
+   "categoryCarousel":{
+      "titleOne":"ULTIMATE",
+      "subLineOne":"HORIZONS",
+      "titleTwo":"ULTIMATE",
+      "subLineTwo":"INDULGENCE",
+      "titleThree":"ULTIMATE",
+      "subLineThree":"BALANCE",
+      "titleFour":"ULTIMATE",
+      "subLineFour":"MOMENTS",
+      "titleFive":"ULTIMATE",
+      "subLineFive":"DELIGHTS",
+      "titleSix":"ULTIMATE",
+      "subLineSix":"DEDICATION"
+   }, 
+   "footer":{
+      "paragraph1":"Citibank full disclaimers, terms and conditions apply to individual products and banking services. Please visit <a href='http://www.citibank.com.sg' target='_blank'>www.citibank.com.sg</a> for full details.",
+      "paragraph2":"All published information is correct and complete at the time of publishing. Citibank cannot assume responsibility for changes which occur after publishing.",
+      "paragraph3":"Â©2026 Citibank Singapore Limited. Citi, Citibank, Citi ULTIMA and Citi and Arc Design and other marks used herein are service marks of Citigroup Inc. or its affiliates, used and registered throughout the world. Citibank Singapore Limited Co. Reg. No. 200309485K.",
+      "link1Text": "Terms & Conditions",
+      "link1URL": "#/terms-and-conditions",
+      "link2Text": "Privacy",
+      "link2URL": "https://www.citibank.com.sg/gcb/footer/privacy.htm?lid=SGENCBGMSHETLPrivacy"
+   },
+   "Golftnc":{
+      "paragraph1":"",
+      "paragraph2":""
+   }
+}

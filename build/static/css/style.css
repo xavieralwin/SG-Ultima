@@ -1,0 +1,43 @@
+#table1 {
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 10px;
+}
+
+table,
+td,
+th {
+    border: 1px solid white;
+    padding: 10px 15px !important;
+}
+
+th,
+.font-bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+@media (min-width: 1290px) {
+    .xl-hide {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1290px) {
+    .sm-cus {
+        display: none !important;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .w-mob-1 {
+        width: 80%;
+    }
+
+}
+
+ol[type="a"] {
+    list-style: lower-alpha;
+    padding-left: 20px
+}

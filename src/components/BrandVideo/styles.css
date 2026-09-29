@@ -1,0 +1,13 @@
+.react-player iframe {
+    pointer-events: none;
+}
+
+.control-bar {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+    z-index: 99;
+    background-color: black;
+}

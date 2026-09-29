@@ -1,0 +1,16 @@
+.privilege-text a{
+    padding-top: 16px;
+    text-decoration: underline;
+    color: #AB9834;
+    font-weight: 400;
+}
+
+.privilege-text>ul{
+    list-style: disc !important;
+    padding: 0  0  0 20px !important;
+}
+
+.privilege-text>ol{
+    list-style: decimal !important;
+    padding: 0  0  0 20px !important;
+}
