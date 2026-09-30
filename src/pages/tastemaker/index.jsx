@@ -135,6 +135,7 @@ import Concierge from '../../components/Concierge';
 import Gastro from '../../components/Gastro';
 import GastroHeader from '../../components/GastroHeader';
 import GastroFooter from '../../components/GastroFooter';
+import CitiworldNotice from'../../components/CitiworldNotice';
 
 const TastemakerPage = () => { 
     const { scroll } = useLocomotiveScroll();
@@ -217,10 +218,15 @@ const TastemakerPage = () => {
             <section className='bg-black mt-20'  data-scroll-section>
                 <PrivilegeList pageName='tastemakers' scrollToTop={scrollToTop} />                
             </section> 
-            <section className='bg-black pt-10 md:pt-52 pb-10 md:pb-52' data-scroll-section>
+            <section className='bg-black mt-10 pb-10' data-scroll-section>
+                <StarField  />
+               <CitiworldNotice />
+            </section> 
+            <section className='bg-black pt-10 md:pt-20 pb-10 md:pb-52' data-scroll-section>
                 <StarField  />
                 <Concierge />
             </section> 
+            
             <section className='bg-black'  data-scroll-section>
                 <Footer/>
             </section>   
