@@ -1,6 +1,6 @@
 ========================================================================
                    CITI ULTIMA - PRODUCTION DEPLOYMENT MANIFEST          
-                   Generated: 2026-09-30T08:20:51.408Z
+                   Generated: 2026-09-30T10:09:06.624Z
 ========================================================================
 
 Target Server Directory:
@@ -10,14 +10,14 @@ Target Server Directory:
  1. CORE FILES (MANDATORY ON EVERY RELEASE / CODE CHANGE)
 ------------------------------------------------------------------------
  [HTML]  index.html (1.05 KB) -> Upload to root of microsite
- [BUNDLE] static/css/main.39e26d4d.css (140.91 KB)
- [BUNDLE] static/js/main.a330f24b.js (1.66 MB)
+ [BUNDLE] static/css/main.929ff693.css (140.96 KB)
+ [BUNDLE] static/js/main.0d943535.js (1.66 MB)
 
 ------------------------------------------------------------------------
  2. STATIC ASSETS & MEDIA REFERENCED IN THIS BUILD
 ------------------------------------------------------------------------
- ./static/css/main.39e26d4d.css                          [140.91 KB]
- ./static/js/main.a330f24b.js                            [1.66 MB]
+ ./static/css/main.929ff693.css                          [140.96 KB]
+ ./static/js/main.0d943535.js                            [1.66 MB]
  ./static/js/reactPlayerYouTube.8a8b29c0.chunk.js        [7.62 KB]
  ./static/js/reactPlayerSoundCloud.e6742844.chunk.js     [5.16 KB]
  ./static/js/reactPlayerVimeo.26bf8148.chunk.js          [5.87 KB]

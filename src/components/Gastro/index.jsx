@@ -33,7 +33,7 @@ function Gastro() {
       <div
         style={{ backgroundImage: `url(${headerImage})` }}
         className={classNames(
-          `w-screen h-screen inline-block bg-no-repeat bg-cover relative bg-center`
+          `w-screen md:h-screen inline-block bg-no-repeat bg-cover relative bg-center h-[60vh]`
         )}
       >
         <div className='z-10 absolute left-1/2 -top-10 -translate-x-1/2 -translate-y-1/2 text-center'>
