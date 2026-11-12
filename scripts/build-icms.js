@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
 
 const rootDir = path.join(__dirname, '..');
 const buildDir = path.join(rootDir, 'build');
@@ -14,8 +15,10 @@ if (!fs.existsSync(manifestPath)) {
 const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
 const filesMap = manifest.files || {};
 
-// Collect all active runtime files from asset-manifest.json (excluding source maps)
-const filesToCopy = new Set();
+// Build the set of all deployable files (relative to build/)
+// Excludes *.map, *.LICENSE.txt, asset-manifest.json, DEPLOY_MANIFEST.txt,
+// locales/en/old.json, locales/en/travel-old, site.webmanifest, pdfs/
+const deployableFiles = new Set();
 
 Object.entries(filesMap).forEach(([key, relPath]) => {
   if (key.endsWith('.map') || relPath.endsWith('.map')) {
@@ -23,13 +26,10 @@ Object.entries(filesMap).forEach(([key, relPath]) => {
   }
   const normalized = relPath.replace(/^\.\//, '').replace(/^\//, '');
   if (normalized) {
-    filesToCopy.add(normalized);
+    deployableFiles.add(normalized);
   }
 });
 
-// Required runtime files copied from public/ into build/
-// Excludes non-deployable files: *.map, *.LICENSE.txt, asset-manifest.json,
-// DEPLOY_MANIFEST.txt, locales/en/old.json, locales/en/travel-old, site.webmanifest, pdfs/
 const requiredPublicFiles = [
   'index.html',
   'locales/en/translation.json',
@@ -46,33 +46,76 @@ const requiredPublicFiles = [
 ];
 
 requiredPublicFiles.forEach((relPath) => {
-  filesToCopy.add(relPath);
+  deployableFiles.add(relPath);
 });
 
-// Recreate build-icms/ cleanly so stale files from earlier builds are never kept
+// Find files in build/ modified or added compared to HEAD
+function getChangedBuildFiles() {
+  const changed = new Set();
+
+  const runGit = (args) =>
+    execFileSync('git', ['-c', 'core.safecrlf=false', ...args], {
+      cwd: rootDir,
+      encoding: 'utf8',
+      maxBuffer: 20 * 1024 * 1024,
+    });
+
+  // Check whether build/ exists in HEAD
+  const headBuildTree = runGit(['ls-tree', '-r', '--name-only', 'HEAD', '--', 'build/']).trim();
+  if (!headBuildTree) {
+    // First-time build (no build/ in HEAD): include all deployable files
+    return Array.from(deployableFiles);
+  }
+
+  // Modified or Added files compared to HEAD (respects .gitattributes / core.autocrlf)
+  const diffOut = runGit(['diff', '--name-only', '--diff-filter=AM', 'HEAD', '--', 'build/']);
+  // Untracked new files in build/
+  const untrackedOut = runGit(['ls-files', '--others', '--exclude-standard', '--', 'build/']);
+
+  [diffOut, untrackedOut].forEach((output) => {
+    output
+      .split(/\r?\n/)
+      .map((line) => line.trim())
+      .filter(Boolean)
+      .forEach((gitPath) => {
+        const rel = gitPath.replace(/^build\//, '');
+        if (deployableFiles.has(rel)) {
+          changed.add(rel);
+        }
+      });
+  });
+
+  return Array.from(changed);
+}
+
+let filesToCopy;
+try {
+  filesToCopy = getChangedBuildFiles().sort();
+} catch (err) {
+  console.error('\x1b[31m[ERROR] Failed to compare build/ against Git HEAD:\x1b[0m', err.message);
+  process.exit(1);
+}
+
+// Recreate build-icms/ cleanly so only current changed deployable files remain
 fs.rmSync(icmsDir, { recursive: true, force: true });
 fs.mkdirSync(icmsDir, { recursive: true });
 
 let copiedCount = 0;
 let totalBytes = 0;
-const missingFiles = [];
 
-Array.from(filesToCopy)
-  .sort()
-  .forEach((relPath) => {
-    const srcPath = path.join(buildDir, relPath);
-    const destPath = path.join(icmsDir, relPath);
+filesToCopy.forEach((relPath) => {
+  const srcPath = path.join(buildDir, relPath);
+  const destPath = path.join(icmsDir, relPath);
 
-    if (!fs.existsSync(srcPath)) {
-      missingFiles.push(relPath);
-      return;
-    }
+  if (!fs.existsSync(srcPath)) {
+    return;
+  }
 
-    fs.mkdirSync(path.dirname(destPath), { recursive: true });
-    fs.copyFileSync(srcPath, destPath);
-    totalBytes += fs.statSync(destPath).size;
-    copiedCount += 1;
-  });
+  fs.mkdirSync(path.dirname(destPath), { recursive: true });
+  fs.copyFileSync(srcPath, destPath);
+  totalBytes += fs.statSync(destPath).size;
+  copiedCount += 1;
+});
 
 function formatBytes(bytes) {
   if (bytes < 1024) return bytes + ' B';
@@ -80,8 +123,11 @@ function formatBytes(bytes) {
   return (bytes / 1048576).toFixed(2) + ' MB';
 }
 
-console.log(`\x1b[32m✔ Created build-icms/ with ${copiedCount} deployable files (${formatBytes(totalBytes)})\x1b[0m`);
-if (missingFiles.length > 0) {
-  console.warn(`\x1b[33m[WARN] Skipped missing files:\n  - ${missingFiles.join('\n  - ')}\x1b[0m`);
+if (copiedCount === 0) {
+  console.log('\x1b[33m✔ No deployable files modified or added since HEAD. build-icms/ is empty.\x1b[0m');
+} else {
+  console.log(`\x1b[32m✔ Created build-icms/ with ${copiedCount} changed deployable file(s) (${formatBytes(totalBytes)}):\x1b[0m`);
+  filesToCopy.forEach((relPath) => {
+    console.log(`   - ${relPath}`);
+  });
 }
-
