@@ -20,8 +20,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && node scripts/build-details.js",
+    "build": "node scripts/build.js && node scripts/build-details.js && node scripts/build-icms.js",
     "build:details": "node scripts/build-details.js",
+    "build:icms": "node scripts/build-icms.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
