@@ -69,6 +69,8 @@ import { useLocation } from 'react-router-dom';
 import { useLocomotiveScroll } from "react-locomotive-scroll";
 import { useTranslation} from 'react-i18next';
 import headerImage from "../../assets/images/moments_header.jpg";
+import worldLegendLogo from "../../assets/images/world-legend-mastercard-collection.png";
+import '../../components/GastroHeader/styles.css';
 import Footer from "../../components/Footer";
 import StarField from '../../components/StarField';
 import NavBar from "../../components/NavBar";
@@ -118,6 +120,19 @@ const MomentsPage = () => {
                         </div>
                     </div>
                 </div>  
+            </section>
+            <section style={{ backgroundColor: '#000000' }} data-scroll-section>
+                <div className="container mx-auto relative py-20">
+                    <div className="flex justify-center">
+                        <div className="grid grid-cols-1 mx-10 md:mx-40 mt-10 md:mt-0">
+                            <img src={worldLegendLogo} alt="The Mastercard Collection" className="m-auto w-40 md:w-48 h-auto" />
+                            <h1 className="text-white gastro-header-title mt-6">WORLD LEGEND MASTERCARD PRIVILEGES</h1>
+                            <p className="text-white text-center text-sm font-extralight leading-5 mt-8">
+                                As Mastercard’s highest and most prestigious consumer credit card tier, World Legend Mastercard™ is designed for a truly exceptional lifestyle offering exclusive global access with premium travel, dining and entertainment benefits from The Mastercard Collection.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </section>
             <section className='bg-black'  data-scroll-section>
                 <PrivilegeList pageName='moments' scrollToTop={scrollToTop} />
