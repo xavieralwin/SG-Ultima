@@ -88,6 +88,7 @@
 import React from 'react';
 import { useTranslation} from 'react-i18next';
 import Privilege from '../Privilege';
+import line from '../../assets/images/sectionLine.svg';
 
 
 function PrivilegeList({
@@ -145,6 +146,14 @@ function PrivilegeList({
           section3SubTitle={t(`${pageName}.offer${i}AccessSubTitle`)}
           section3Copy={t(`${pageName}.offer${i}AccessCopy`)}
         />);
+
+      if (i === 3) {
+        offers.push(
+          <div key={`divider_${i}`} className='mt-4 flex justify-center mb-20'>
+            <img src={line} alt='divider' />
+          </div>
+        );
+      }
     }
   }
 

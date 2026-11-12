@@ -187,7 +187,7 @@ const images = {
     },
     'moments': {
         'offer1': [
-            require('./moments/offer1/moments_offer1_img.jpg'),
+            require('./moments/offer1/moments_offer1_dining.jpg'),
         ],
         'offer2': [
             require('./moments/offer2/moments_offer2_img.jpg'),
