@@ -1,6 +1,6 @@
 ========================================================================
                    CITI ULTIMA - PRODUCTION DEPLOYMENT MANIFEST          
-                   Generated: 2026-11-12T13:01:07.731Z
+                   Generated: 2026-11-13T11:53:32.134Z
 ========================================================================
 
 Target Server Directory:
@@ -32,6 +32,7 @@ Target Server Directory:
  ./static/js/reactPlayerFilePlayer.chunk.js              [11.17 KB]
  ./static/js/reactPlayerPreview.chunk.js                 [5.08 KB]
  ./static/js/787.chunk.js                                [4.49 KB]
+ ./static/media/delights_header.jpg                      [1.58 MB]
  ./static/media/master_header.jpg                        [452.16 KB]
  ./static/media/rewards_header.jpg                       [310.43 KB]
  ./static/media/tastemakers_offer1_img.jpg               [300.59 KB]
@@ -44,7 +45,6 @@ Target Server Directory:
  ./static/media/moments_offer2_img.jpg                   [186.80 KB]
  ./static/media/moments_offer3_img.jpg                   [183.42 KB]
  ./static/media/luxuries_header.jpg                      [178.56 KB]
- ./static/media/delights_header.jpg                      [162.02 KB]
  ./static/media/chef-1.jpg                               [143.68 KB]
  ./static/media/balance_header.jpg                       [140.50 KB]
  ./static/media/moments_offer1_dining.jpg                [131.70 KB]
